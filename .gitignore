@@ -1,0 +1,13 @@
+*.zip
+JATS-Publishing-1-1d1-MathML2-DTD
+JATS-Publishing-1-1d1-MathML3-DTD
+JATS-Publishing-1-1d1-OASIS-MathML2-DTD
+JATS-Publishing-1-1d1-OASIS-MathML3-DTD
+out
+Publishing-1.1d1-TagLibrary-HTML
+JATS-journalpublishing1.dtd
+journalpubcustom-modules.ent
+Publishing-Readme.txt
+src/test/java/nationallizenzen
+src/test/java/samples
+src/test/resources/nl

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metamorph xmlns="http://www.culturegraph.org/metamorph" version="1">
+
+	<vars>
+		<var name="swissbib_domain" value="http://data.swissbib.ch/resource/"/>
+	</vars>
+
+	<rules>
+
+
+		<!-- <data source="gnd" name="_id"/> -->
+		<data source="_else" />
+		<!--
+		<combine name="rdfs:label" value="${firstname}${lastname}${developed}${dates}${note}" flushWith="1001 ">
+			<data source="1001 .a" name="firstname" />
+			<data source="1001 .D" name="lastname" >
+				<compose prefix=", " />
+			</data>
+			<data source="1001 .q" name="developed" >
+				<compose prefix=" (" postfix=")" />
+			</data>
+			<data source="1001 .d" name="dates" >
+				<compose prefix=", " />
+			</data>
+			<data source="1001 .c" name="note" >
+				<compose prefix=", " />
+			</data>
+		</combine>
+
+		<data source="949  .B" />
+		-->
+
+	</rules>
+
+	<maps>
+		<filemap name="cantons" files="./src/main/resources/transformation/gh/maps/cantons.txt" separator="\t"/>
+		<filemap name="languages" files="./src/main/resources/transformation/gh/maps/languages.txt" separator="\t"/>
+		<filemap name="countries" files="./src/main/resources/transformation/gh/maps/countries.txt" separator="\t"/>
+		<filemap name="type_content" files="./src/main/resources/transformation/gh/maps/type_content.txt" separator="\t"/>
+		<filemap name="type_media" files="./src/main/resources/transformation/gh/maps/type_media.txt" separator="\t"/>
+	</maps>
+
+	<!--TO DO:
+			
+	- to transform:
+		752: publication place for old books (3% der Records)
+		856/956 : accès électronique
+		830?
+	
+	- possible problems, to think:
+		links between records: 730, 740, 760, 762, 767, 77X, 78X, 800, 810, 811, 830
+	
+	-->
+
+</metamorph>

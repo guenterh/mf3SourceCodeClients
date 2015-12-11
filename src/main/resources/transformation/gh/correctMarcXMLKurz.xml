@@ -1,0 +1,3182 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<collection xmlns="http://www.loc.gov/MARC21/slim" >
+	<record type="Bibliographic">
+         <leader>     cam a22     4  4500</leader>
+         <controlfield tag="001">318618583</controlfield>
+         <controlfield tag="003">CHVBK</controlfield>
+         <controlfield tag="005">20150327052427.0</controlfield>
+         <controlfield tag="008">140724s2015    xxu           00    eng|d</controlfield>
+         <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBB4-16956</subfield>
+            <subfield code="2">bnb</subfield>
+         </datafield>
+         <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">978-0-13-254436-8 (hbk.)</subfield>
+         </datafield>
+         <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(IDSBB)006237703</subfield>
+         </datafield>
+         <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(RERO)R007850485</subfield>
+         </datafield>
+         <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NEBIS)010081337</subfield>
+         </datafield>
+         <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)870646444</subfield>
+         </datafield>
+         <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">UKMGB</subfield>
+            <subfield code="d">SzZuIDS BS/BE B400</subfield>
+         </datafield>
+         <datafield tag="072" ind1=" " ind2="7">
+            <subfield code="a">s1se</subfield>
+            <subfield code="2">rero</subfield>
+         </datafield>
+         <datafield tag="082" ind1="0" ind2=" ">
+            <subfield code="a">658.8342</subfield>
+            <subfield code="2">23</subfield>
+         </datafield>
+         <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">QW 300</subfield>
+            <subfield code="2">rvk</subfield>
+         </datafield>
+		 <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">QW 301</subfield>
+            <subfield code="2">cdu</subfield>
+         </datafield>
+		 <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">QW 302</subfield>
+            <subfield code="2">rvk</subfield>
+         </datafield>
+         <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">L. G.</subfield>
+			<subfield code="q">Léon Gaspard</subfield>
+			<subfield code="d">?-1998</subfield>
+         </datafield>
+         <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Consumer behavior</subfield>
+            <subfield code="c">Leon G. Schiffman, Joseph L. Wisenblit</subfield>
+             <subfield code="c">Guenter Hipler</subfield>
+         </datafield>
+         <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">11th ed</subfield>
+			<subfield code="b">corr. and rev. by Joseph Wisenblit</subfield>
+         </datafield>
+		 <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">3. Aufl.</subfield>
+         </datafield>
+         <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Boston</subfield>
+            <subfield code="b">Pearson</subfield>
+            <subfield code="c">2015</subfield>
+         </datafield>
+         <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">492 S</subfield>
+            <subfield code="b">Ill</subfield>
+         </datafield>
+         <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Always learning</subfield>
+         </datafield>
+         <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Global edition</subfield>
+         </datafield>
+         <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index</subfield>
+         </datafield>
+         <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Verbraucherverhalten</subfield>
+            <subfield code="0">(DE-588)4062644-1</subfield>
+            <subfield code="2">gnd</subfield>
+         </datafield>
+         <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Motivation research (Marketing)</subfield>
+         </datafield>
+         <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Consommateurs</subfield>
+            <subfield code="x">Comportement</subfield>
+            <subfield code="2">rero</subfield>
+         </datafield>
+         <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Études de motivation</subfield>
+            <subfield code="2">rero</subfield>
+         </datafield>
+         <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Consumer behavior</subfield>
+         </datafield>
+         <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Lehrbuch</subfield>
+            <subfield code="2">gnd</subfield>
+         </datafield>
+         <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Manuels d'enseignement supérieur</subfield>
+            <subfield code="2">rero</subfield>
+         </datafield>
+         <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">Produktionsfaktoren und Verteilungsquoten</subfield>
+            <subfield code="z">eng</subfield>
+            <subfield code="u">QC 200</subfield>
+            <subfield code="2">libib XF</subfield>
+         </datafield>
+         <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">Kapital</subfield>
+            <subfield code="c">Wirtschaftswissenschaften</subfield>
+            <subfield code="u">330.14</subfield>
+            <subfield code="2">libib XD</subfield>
+         </datafield>
+         <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">KONSUMVERHALTEN + KONSUMENTENVERHALTEN</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">65,11.1.10.1</subfield>
+            <subfield code="2">nebis E1</subfield>
+         </datafield>
+         <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">ATTITUDE DE CONSOMMATION + COMPORTEMENT DU CONSOMMATEUR</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">65,11.1.10.1</subfield>
+            <subfield code="2">nebis E1</subfield>
+         </datafield>
+         <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">MANUELS POUR L'ENSEIGNEMENT (TYPE DE DOCUMENT)</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">(075)</subfield>
+            <subfield code="2">nebis E1</subfield>
+         </datafield>
+         <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">LEHRBÜCHER (DOKUMENTENTYP)</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">(075)</subfield>
+            <subfield code="2">nebis E1</subfield>
+         </datafield>
+         <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+			<subfield code="4">fmo</subfield>
+         </datafield>
+         <datafield tag="898" ind1=" " ind2=" ">
+            <subfield code="a">BK020000</subfield>
+            <subfield code="b">XK020000</subfield>
+         </datafield>
+         <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">bw</subfield>
+         </datafield>
+         <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">171</subfield>
+            <subfield code="2">E01-20140714</subfield>
+         </datafield>
+         <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE01046</subfield>
+            <subfield code="j">FSES M22</subfield>
+            <subfield code="s">TEB 26664A</subfield>
+         </datafield>
+         <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1569</subfield>
+         </datafield>
+         <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1573</subfield>
+         </datafield>
+         <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1571</subfield>
+         </datafield>
+         <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1572</subfield>
+         </datafield>
+         <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1570</subfield>
+         </datafield>
+         <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="F">A125</subfield>
+         </datafield>
+         <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="F">E01</subfield>
+            <subfield code="j">T 55278</subfield>
+         </datafield>
+         <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="F">B400</subfield>
+            <subfield code="j">ZB RAB 13511</subfield>
+            <subfield code="x">NELB4001407</subfield>
+         </datafield>
+		 <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="F">HSG</subfield>
+            <subfield code="j">ZB RAB 13512</subfield>
+            <subfield code="x">NELB4001407</subfield>
+         </datafield>
+         <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">Leon G.</subfield>
+         </datafield>
+         <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">490</subfield>
+            <subfield code="E">--</subfield>
+            <subfield code="a">Always learning</subfield>
+         </datafield>
+         <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+         </datafield>
+         <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">Leon G.</subfield>
+         </datafield>
+         <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+         </datafield>
+         <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">Leon G.</subfield>
+         </datafield>
+         <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+         </datafield>
+         <datafield tag="956" ind1="4" ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="C">EAD50</subfield>
+            <subfield code="D">EBI01</subfield>
+            <subfield code="a">E01</subfield>
+            <subfield code="u">http://opac.nebis.ch/objects/pdf03/e01_978-0-13-254436-8_01.pdf</subfield>
+            <subfield code="y">Titelblatt und Inhaltsverzeichnis</subfield>
+            <subfield code="x">VIEW</subfield>
+            <subfield code="q">pdf</subfield>
+         </datafield>
+         <datafield tag="956" ind1="4" ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="a">B400</subfield>
+            <subfield code="u">http://www.ub.unibas.ch/tox/IDSBB/006237703/PDF</subfield>
+            <subfield code="q">pdf</subfield>
+            <subfield code="x">VIEW</subfield>
+            <subfield code="y">Inhaltsverzeichnis</subfield>
+         </datafield>
+         <datafield tag="986" ind1=" " ind2=" ">
+            <subfield code="a">SWISSBIB</subfield>
+            <subfield code="b">279124783</subfield>
+         </datafield>
+      </record>
+    <record type="Bibliographic">
+        <leader>     cam a22     4  4500</leader>
+        <controlfield tag="001">318618583</controlfield>
+        <controlfield tag="003">CHVBK</controlfield>
+        <controlfield tag="005">20150327052427.0</controlfield>
+        <controlfield tag="008">140724s2015    xxu           00    eng|d</controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBB4-16956</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">978-0-13-254436-8 (hbk.)</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(IDSBB)006237703</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(RERO)R007850485</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NEBIS)010081337</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)870646444</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">UKMGB</subfield>
+            <subfield code="d">SzZuIDS BS/BE B400</subfield>
+        </datafield>
+        <datafield tag="072" ind1=" " ind2="7">
+            <subfield code="a">s1se</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2=" ">
+            <subfield code="a">658.8342</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">QW 300</subfield>
+            <subfield code="2">rvk</subfield>
+        </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">QW 301</subfield>
+            <subfield code="2">cdu</subfield>
+        </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">QW 302</subfield>
+            <subfield code="2">rvk</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">L. G.</subfield>
+            <subfield code="q">Léon Gaspard</subfield>
+            <subfield code="d">?-1998</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Consumer behavior</subfield>
+            <subfield code="c">Leon G. Schiffman, Joseph L. Wisenblit</subfield>
+            <subfield code="c">Guenter Hipler</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">11th ed</subfield>
+            <subfield code="b">corr. and rev. by Joseph Wisenblit</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">3. Aufl.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Boston</subfield>
+            <subfield code="b">Pearson</subfield>
+            <subfield code="c">2015</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">492 S</subfield>
+            <subfield code="b">Ill</subfield>
+        </datafield>
+        <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Always learning</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Global edition</subfield>
+        </datafield>
+        <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Verbraucherverhalten</subfield>
+            <subfield code="0">(DE-588)4062644-1</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Motivation research (Marketing)</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Consommateurs</subfield>
+            <subfield code="x">Comportement</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Études de motivation</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Consumer behavior</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Lehrbuch</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Manuels d'enseignement supérieur</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">Produktionsfaktoren und Verteilungsquoten</subfield>
+            <subfield code="z">eng</subfield>
+            <subfield code="u">QC 200</subfield>
+            <subfield code="2">libib XF</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">Kapital</subfield>
+            <subfield code="c">Wirtschaftswissenschaften</subfield>
+            <subfield code="u">330.14</subfield>
+            <subfield code="2">libib XD</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">KONSUMVERHALTEN + KONSUMENTENVERHALTEN</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">65,11.1.10.1</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">ATTITUDE DE CONSOMMATION + COMPORTEMENT DU CONSOMMATEUR</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">65,11.1.10.1</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">MANUELS POUR L'ENSEIGNEMENT (TYPE DE DOCUMENT)</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">(075)</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">LEHRBÜCHER (DOKUMENTENTYP)</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">(075)</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+            <subfield code="4">fmo</subfield>
+        </datafield>
+        <datafield tag="898" ind1=" " ind2=" ">
+            <subfield code="a">BK020000</subfield>
+            <subfield code="b">XK020000</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">bw</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">171</subfield>
+            <subfield code="2">E01-20140714</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE01046</subfield>
+            <subfield code="j">FSES M22</subfield>
+            <subfield code="s">TEB 26664A</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1569</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1573</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1571</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1572</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1570</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="F">A125</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="F">E01</subfield>
+            <subfield code="j">T 55278</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="F">B400</subfield>
+            <subfield code="j">ZB RAB 13511</subfield>
+            <subfield code="x">NELB4001407</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="F">HSG</subfield>
+            <subfield code="j">ZB RAB 13512</subfield>
+            <subfield code="x">NELB4001407</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">Leon G.</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">490</subfield>
+            <subfield code="E">--</subfield>
+            <subfield code="a">Always learning</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">Leon G.</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">Leon G.</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+        </datafield>
+        <datafield tag="956" ind1="4" ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="C">EAD50</subfield>
+            <subfield code="D">EBI01</subfield>
+            <subfield code="a">E01</subfield>
+            <subfield code="u">http://opac.nebis.ch/objects/pdf03/e01_978-0-13-254436-8_01.pdf</subfield>
+            <subfield code="y">Titelblatt und Inhaltsverzeichnis</subfield>
+            <subfield code="x">VIEW</subfield>
+            <subfield code="q">pdf</subfield>
+        </datafield>
+        <datafield tag="956" ind1="4" ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="a">B400</subfield>
+            <subfield code="u">http://www.ub.unibas.ch/tox/IDSBB/006237703/PDF</subfield>
+            <subfield code="q">pdf</subfield>
+            <subfield code="x">VIEW</subfield>
+            <subfield code="y">Inhaltsverzeichnis</subfield>
+        </datafield>
+        <datafield tag="986" ind1=" " ind2=" ">
+            <subfield code="a">SWISSBIB</subfield>
+            <subfield code="b">279124783</subfield>
+        </datafield>
+    </record>
+    <record type="Bibliographic">
+        <leader>     cam a22     4  4500</leader>
+        <controlfield tag="001">318618583</controlfield>
+        <controlfield tag="003">CHVBK</controlfield>
+        <controlfield tag="005">20150327052427.0</controlfield>
+        <controlfield tag="008">140724s2015    xxu           00    eng|d</controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBB4-16956</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">978-0-13-254436-8 (hbk.)</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(IDSBB)006237703</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(RERO)R007850485</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NEBIS)010081337</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)870646444</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">UKMGB</subfield>
+            <subfield code="d">SzZuIDS BS/BE B400</subfield>
+        </datafield>
+        <datafield tag="072" ind1=" " ind2="7">
+            <subfield code="a">s1se</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2=" ">
+            <subfield code="a">658.8342</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">QW 300</subfield>
+            <subfield code="2">rvk</subfield>
+        </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">QW 301</subfield>
+            <subfield code="2">cdu</subfield>
+        </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">QW 302</subfield>
+            <subfield code="2">rvk</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">L. G.</subfield>
+            <subfield code="q">Léon Gaspard</subfield>
+            <subfield code="d">?-1998</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Consumer behavior</subfield>
+            <subfield code="c">Leon G. Schiffman, Joseph L. Wisenblit</subfield>
+            <subfield code="c">Guenter Hipler</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">11th ed</subfield>
+            <subfield code="b">corr. and rev. by Joseph Wisenblit</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">3. Aufl.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Boston</subfield>
+            <subfield code="b">Pearson</subfield>
+            <subfield code="c">2015</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">492 S</subfield>
+            <subfield code="b">Ill</subfield>
+        </datafield>
+        <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Always learning</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Global edition</subfield>
+        </datafield>
+        <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Verbraucherverhalten</subfield>
+            <subfield code="0">(DE-588)4062644-1</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Motivation research (Marketing)</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Consommateurs</subfield>
+            <subfield code="x">Comportement</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Études de motivation</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Consumer behavior</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Lehrbuch</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Manuels d'enseignement supérieur</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">Produktionsfaktoren und Verteilungsquoten</subfield>
+            <subfield code="z">eng</subfield>
+            <subfield code="u">QC 200</subfield>
+            <subfield code="2">libib XF</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">Kapital</subfield>
+            <subfield code="c">Wirtschaftswissenschaften</subfield>
+            <subfield code="u">330.14</subfield>
+            <subfield code="2">libib XD</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">KONSUMVERHALTEN + KONSUMENTENVERHALTEN</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">65,11.1.10.1</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">ATTITUDE DE CONSOMMATION + COMPORTEMENT DU CONSOMMATEUR</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">65,11.1.10.1</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">MANUELS POUR L'ENSEIGNEMENT (TYPE DE DOCUMENT)</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">(075)</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">LEHRBÜCHER (DOKUMENTENTYP)</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">(075)</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+            <subfield code="4">fmo</subfield>
+        </datafield>
+        <datafield tag="898" ind1=" " ind2=" ">
+            <subfield code="a">BK020000</subfield>
+            <subfield code="b">XK020000</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">bw</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">171</subfield>
+            <subfield code="2">E01-20140714</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE01046</subfield>
+            <subfield code="j">FSES M22</subfield>
+            <subfield code="s">TEB 26664A</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1569</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1573</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1571</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1572</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1570</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="F">A125</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="F">E01</subfield>
+            <subfield code="j">T 55278</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="F">B400</subfield>
+            <subfield code="j">ZB RAB 13511</subfield>
+            <subfield code="x">NELB4001407</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="F">HSG</subfield>
+            <subfield code="j">ZB RAB 13512</subfield>
+            <subfield code="x">NELB4001407</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">Leon G.</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">490</subfield>
+            <subfield code="E">--</subfield>
+            <subfield code="a">Always learning</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">Leon G.</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">Leon G.</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+        </datafield>
+        <datafield tag="956" ind1="4" ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="C">EAD50</subfield>
+            <subfield code="D">EBI01</subfield>
+            <subfield code="a">E01</subfield>
+            <subfield code="u">http://opac.nebis.ch/objects/pdf03/e01_978-0-13-254436-8_01.pdf</subfield>
+            <subfield code="y">Titelblatt und Inhaltsverzeichnis</subfield>
+            <subfield code="x">VIEW</subfield>
+            <subfield code="q">pdf</subfield>
+        </datafield>
+        <datafield tag="956" ind1="4" ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="a">B400</subfield>
+            <subfield code="u">http://www.ub.unibas.ch/tox/IDSBB/006237703/PDF</subfield>
+            <subfield code="q">pdf</subfield>
+            <subfield code="x">VIEW</subfield>
+            <subfield code="y">Inhaltsverzeichnis</subfield>
+        </datafield>
+        <datafield tag="986" ind1=" " ind2=" ">
+            <subfield code="a">SWISSBIB</subfield>
+            <subfield code="b">279124783</subfield>
+        </datafield>
+    </record>
+    <record type="Bibliographic">
+        <leader>     cam a22     4  4500</leader>
+        <controlfield tag="001">318618583</controlfield>
+        <controlfield tag="003">CHVBK</controlfield>
+        <controlfield tag="005">20150327052427.0</controlfield>
+        <controlfield tag="008">140724s2015    xxu           00    eng|d</controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBB4-16956</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">978-0-13-254436-8 (hbk.)</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(IDSBB)006237703</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(RERO)R007850485</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NEBIS)010081337</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)870646444</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">UKMGB</subfield>
+            <subfield code="d">SzZuIDS BS/BE B400</subfield>
+        </datafield>
+        <datafield tag="072" ind1=" " ind2="7">
+            <subfield code="a">s1se</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2=" ">
+            <subfield code="a">658.8342</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">QW 300</subfield>
+            <subfield code="2">rvk</subfield>
+        </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">QW 301</subfield>
+            <subfield code="2">cdu</subfield>
+        </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">QW 302</subfield>
+            <subfield code="2">rvk</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">L. G.</subfield>
+            <subfield code="q">Léon Gaspard</subfield>
+            <subfield code="d">?-1998</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Consumer behavior</subfield>
+            <subfield code="c">Leon G. Schiffman, Joseph L. Wisenblit</subfield>
+            <subfield code="c">Guenter Hipler</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">11th ed</subfield>
+            <subfield code="b">corr. and rev. by Joseph Wisenblit</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">3. Aufl.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Boston</subfield>
+            <subfield code="b">Pearson</subfield>
+            <subfield code="c">2015</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">492 S</subfield>
+            <subfield code="b">Ill</subfield>
+        </datafield>
+        <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Always learning</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Global edition</subfield>
+        </datafield>
+        <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Verbraucherverhalten</subfield>
+            <subfield code="0">(DE-588)4062644-1</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Motivation research (Marketing)</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Consommateurs</subfield>
+            <subfield code="x">Comportement</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Études de motivation</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Consumer behavior</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Lehrbuch</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Manuels d'enseignement supérieur</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">Produktionsfaktoren und Verteilungsquoten</subfield>
+            <subfield code="z">eng</subfield>
+            <subfield code="u">QC 200</subfield>
+            <subfield code="2">libib XF</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">Kapital</subfield>
+            <subfield code="c">Wirtschaftswissenschaften</subfield>
+            <subfield code="u">330.14</subfield>
+            <subfield code="2">libib XD</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">KONSUMVERHALTEN + KONSUMENTENVERHALTEN</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">65,11.1.10.1</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">ATTITUDE DE CONSOMMATION + COMPORTEMENT DU CONSOMMATEUR</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">65,11.1.10.1</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">MANUELS POUR L'ENSEIGNEMENT (TYPE DE DOCUMENT)</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">(075)</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">LEHRBÜCHER (DOKUMENTENTYP)</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">(075)</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+            <subfield code="4">fmo</subfield>
+        </datafield>
+        <datafield tag="898" ind1=" " ind2=" ">
+            <subfield code="a">BK020000</subfield>
+            <subfield code="b">XK020000</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">bw</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">171</subfield>
+            <subfield code="2">E01-20140714</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE01046</subfield>
+            <subfield code="j">FSES M22</subfield>
+            <subfield code="s">TEB 26664A</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1569</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1573</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1571</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1572</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1570</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="F">A125</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="F">E01</subfield>
+            <subfield code="j">T 55278</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="F">B400</subfield>
+            <subfield code="j">ZB RAB 13511</subfield>
+            <subfield code="x">NELB4001407</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="F">HSG</subfield>
+            <subfield code="j">ZB RAB 13512</subfield>
+            <subfield code="x">NELB4001407</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">Leon G.</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">490</subfield>
+            <subfield code="E">--</subfield>
+            <subfield code="a">Always learning</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">Leon G.</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">Leon G.</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+        </datafield>
+        <datafield tag="956" ind1="4" ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="C">EAD50</subfield>
+            <subfield code="D">EBI01</subfield>
+            <subfield code="a">E01</subfield>
+            <subfield code="u">http://opac.nebis.ch/objects/pdf03/e01_978-0-13-254436-8_01.pdf</subfield>
+            <subfield code="y">Titelblatt und Inhaltsverzeichnis</subfield>
+            <subfield code="x">VIEW</subfield>
+            <subfield code="q">pdf</subfield>
+        </datafield>
+        <datafield tag="956" ind1="4" ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="a">B400</subfield>
+            <subfield code="u">http://www.ub.unibas.ch/tox/IDSBB/006237703/PDF</subfield>
+            <subfield code="q">pdf</subfield>
+            <subfield code="x">VIEW</subfield>
+            <subfield code="y">Inhaltsverzeichnis</subfield>
+        </datafield>
+        <datafield tag="986" ind1=" " ind2=" ">
+            <subfield code="a">SWISSBIB</subfield>
+            <subfield code="b">279124783</subfield>
+        </datafield>
+    </record>
+    <record type="Bibliographic">
+        <leader>     cam a22     4  4500</leader>
+        <controlfield tag="001">318618583</controlfield>
+        <controlfield tag="003">CHVBK</controlfield>
+        <controlfield tag="005">20150327052427.0</controlfield>
+        <controlfield tag="008">140724s2015    xxu           00    eng|d</controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBB4-16956</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">978-0-13-254436-8 (hbk.)</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(IDSBB)006237703</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(RERO)R007850485</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NEBIS)010081337</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)870646444</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">UKMGB</subfield>
+            <subfield code="d">SzZuIDS BS/BE B400</subfield>
+        </datafield>
+        <datafield tag="072" ind1=" " ind2="7">
+            <subfield code="a">s1se</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2=" ">
+            <subfield code="a">658.8342</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">QW 300</subfield>
+            <subfield code="2">rvk</subfield>
+        </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">QW 301</subfield>
+            <subfield code="2">cdu</subfield>
+        </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">QW 302</subfield>
+            <subfield code="2">rvk</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">L. G.</subfield>
+            <subfield code="q">Léon Gaspard</subfield>
+            <subfield code="d">?-1998</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Consumer behavior</subfield>
+            <subfield code="c">Leon G. Schiffman, Joseph L. Wisenblit</subfield>
+            <subfield code="c">Guenter Hipler</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">11th ed</subfield>
+            <subfield code="b">corr. and rev. by Joseph Wisenblit</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">3. Aufl.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Boston</subfield>
+            <subfield code="b">Pearson</subfield>
+            <subfield code="c">2015</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">492 S</subfield>
+            <subfield code="b">Ill</subfield>
+        </datafield>
+        <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Always learning</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Global edition</subfield>
+        </datafield>
+        <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Verbraucherverhalten</subfield>
+            <subfield code="0">(DE-588)4062644-1</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Motivation research (Marketing)</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Consommateurs</subfield>
+            <subfield code="x">Comportement</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Études de motivation</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Consumer behavior</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Lehrbuch</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Manuels d'enseignement supérieur</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">Produktionsfaktoren und Verteilungsquoten</subfield>
+            <subfield code="z">eng</subfield>
+            <subfield code="u">QC 200</subfield>
+            <subfield code="2">libib XF</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">Kapital</subfield>
+            <subfield code="c">Wirtschaftswissenschaften</subfield>
+            <subfield code="u">330.14</subfield>
+            <subfield code="2">libib XD</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">KONSUMVERHALTEN + KONSUMENTENVERHALTEN</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">65,11.1.10.1</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">ATTITUDE DE CONSOMMATION + COMPORTEMENT DU CONSOMMATEUR</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">65,11.1.10.1</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">MANUELS POUR L'ENSEIGNEMENT (TYPE DE DOCUMENT)</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">(075)</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">LEHRBÜCHER (DOKUMENTENTYP)</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">(075)</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+            <subfield code="4">fmo</subfield>
+        </datafield>
+        <datafield tag="898" ind1=" " ind2=" ">
+            <subfield code="a">BK020000</subfield>
+            <subfield code="b">XK020000</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">bw</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">171</subfield>
+            <subfield code="2">E01-20140714</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE01046</subfield>
+            <subfield code="j">FSES M22</subfield>
+            <subfield code="s">TEB 26664A</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1569</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1573</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1571</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1572</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1570</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="F">A125</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="F">E01</subfield>
+            <subfield code="j">T 55278</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="F">B400</subfield>
+            <subfield code="j">ZB RAB 13511</subfield>
+            <subfield code="x">NELB4001407</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="F">HSG</subfield>
+            <subfield code="j">ZB RAB 13512</subfield>
+            <subfield code="x">NELB4001407</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">Leon G.</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">490</subfield>
+            <subfield code="E">--</subfield>
+            <subfield code="a">Always learning</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">Leon G.</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">Leon G.</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+        </datafield>
+        <datafield tag="956" ind1="4" ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="C">EAD50</subfield>
+            <subfield code="D">EBI01</subfield>
+            <subfield code="a">E01</subfield>
+            <subfield code="u">http://opac.nebis.ch/objects/pdf03/e01_978-0-13-254436-8_01.pdf</subfield>
+            <subfield code="y">Titelblatt und Inhaltsverzeichnis</subfield>
+            <subfield code="x">VIEW</subfield>
+            <subfield code="q">pdf</subfield>
+        </datafield>
+        <datafield tag="956" ind1="4" ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="a">B400</subfield>
+            <subfield code="u">http://www.ub.unibas.ch/tox/IDSBB/006237703/PDF</subfield>
+            <subfield code="q">pdf</subfield>
+            <subfield code="x">VIEW</subfield>
+            <subfield code="y">Inhaltsverzeichnis</subfield>
+        </datafield>
+        <datafield tag="986" ind1=" " ind2=" ">
+            <subfield code="a">SWISSBIB</subfield>
+            <subfield code="b">279124783</subfield>
+        </datafield>
+    </record>
+    <record type="Bibliographic">
+        <leader>     cam a22     4  4500</leader>
+        <controlfield tag="001">318618583</controlfield>
+        <controlfield tag="003">CHVBK</controlfield>
+        <controlfield tag="005">20150327052427.0</controlfield>
+        <controlfield tag="008">140724s2015    xxu           00    eng|d</controlfield>
+        <datafield tag="015" ind1=" " ind2=" ">
+            <subfield code="a">GBB4-16956</subfield>
+            <subfield code="2">bnb</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">978-0-13-254436-8 (hbk.)</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(IDSBB)006237703</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(RERO)R007850485</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NEBIS)010081337</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(OCoLC)870646444</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">UKMGB</subfield>
+            <subfield code="d">SzZuIDS BS/BE B400</subfield>
+        </datafield>
+        <datafield tag="072" ind1=" " ind2="7">
+            <subfield code="a">s1se</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2=" ">
+            <subfield code="a">658.8342</subfield>
+            <subfield code="2">23</subfield>
+        </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">QW 300</subfield>
+            <subfield code="2">rvk</subfield>
+        </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">QW 301</subfield>
+            <subfield code="2">cdu</subfield>
+        </datafield>
+        <datafield tag="084" ind1=" " ind2=" ">
+            <subfield code="a">QW 302</subfield>
+            <subfield code="2">rvk</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">L. G.</subfield>
+            <subfield code="q">Léon Gaspard</subfield>
+            <subfield code="d">?-1998</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Consumer behavior</subfield>
+            <subfield code="c">Leon G. Schiffman, Joseph L. Wisenblit</subfield>
+            <subfield code="c">Guenter Hipler</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">11th ed</subfield>
+            <subfield code="b">corr. and rev. by Joseph Wisenblit</subfield>
+        </datafield>
+        <datafield tag="250" ind1=" " ind2=" ">
+            <subfield code="a">3. Aufl.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Boston</subfield>
+            <subfield code="b">Pearson</subfield>
+            <subfield code="c">2015</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">492 S</subfield>
+            <subfield code="b">Ill</subfield>
+        </datafield>
+        <datafield tag="490" ind1="0" ind2=" ">
+            <subfield code="a">Always learning</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Global edition</subfield>
+        </datafield>
+        <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references and index</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Verbraucherverhalten</subfield>
+            <subfield code="0">(DE-588)4062644-1</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Motivation research (Marketing)</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Consommateurs</subfield>
+            <subfield code="x">Comportement</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Études de motivation</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Consumer behavior</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Lehrbuch</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="655" ind1=" " ind2="7">
+            <subfield code="a">Manuels d'enseignement supérieur</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">Produktionsfaktoren und Verteilungsquoten</subfield>
+            <subfield code="z">eng</subfield>
+            <subfield code="u">QC 200</subfield>
+            <subfield code="2">libib XF</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">Kapital</subfield>
+            <subfield code="c">Wirtschaftswissenschaften</subfield>
+            <subfield code="u">330.14</subfield>
+            <subfield code="2">libib XD</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">KONSUMVERHALTEN + KONSUMENTENVERHALTEN</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">65,11.1.10.1</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">ATTITUDE DE CONSOMMATION + COMPORTEMENT DU CONSOMMATEUR</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">65,11.1.10.1</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">MANUELS POUR L'ENSEIGNEMENT (TYPE DE DOCUMENT)</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">(075)</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">LEHRBÜCHER (DOKUMENTENTYP)</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">(075)</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+            <subfield code="4">fmo</subfield>
+        </datafield>
+        <datafield tag="898" ind1=" " ind2=" ">
+            <subfield code="a">BK020000</subfield>
+            <subfield code="b">XK020000</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">bw</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">171</subfield>
+            <subfield code="2">E01-20140714</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE01046</subfield>
+            <subfield code="j">FSES M22</subfield>
+            <subfield code="s">TEB 26664A</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1569</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1573</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1571</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1572</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="F">RE31014</subfield>
+            <subfield code="j">BSE F5/ 1570</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="F">A125</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="F">E01</subfield>
+            <subfield code="j">T 55278</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="F">B400</subfield>
+            <subfield code="j">ZB RAB 13511</subfield>
+            <subfield code="x">NELB4001407</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="F">HSG</subfield>
+            <subfield code="j">ZB RAB 13512</subfield>
+            <subfield code="x">NELB4001407</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">Leon G.</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">490</subfield>
+            <subfield code="E">--</subfield>
+            <subfield code="a">Always learning</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">Leon G.</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Schiffman</subfield>
+            <subfield code="D">Leon G.</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Wisenblit</subfield>
+            <subfield code="D">Joseph</subfield>
+        </datafield>
+        <datafield tag="956" ind1="4" ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="C">EAD50</subfield>
+            <subfield code="D">EBI01</subfield>
+            <subfield code="a">E01</subfield>
+            <subfield code="u">http://opac.nebis.ch/objects/pdf03/e01_978-0-13-254436-8_01.pdf</subfield>
+            <subfield code="y">Titelblatt und Inhaltsverzeichnis</subfield>
+            <subfield code="x">VIEW</subfield>
+            <subfield code="q">pdf</subfield>
+        </datafield>
+        <datafield tag="956" ind1="4" ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="a">B400</subfield>
+            <subfield code="u">http://www.ub.unibas.ch/tox/IDSBB/006237703/PDF</subfield>
+            <subfield code="q">pdf</subfield>
+            <subfield code="x">VIEW</subfield>
+            <subfield code="y">Inhaltsverzeichnis</subfield>
+        </datafield>
+        <datafield tag="986" ind1=" " ind2=" ">
+            <subfield code="a">SWISSBIB</subfield>
+            <subfield code="b">279124783</subfield>
+        </datafield>
+    </record>
+    <record type="Bibliographic">
+        <leader>     cam a22     7  4500</leader>
+        <controlfield tag="001">316022063</controlfield>
+        <controlfield tag="003">CHVBK</controlfield>
+        <controlfield tag="005">20140527151224.0</controlfield>
+        <controlfield tag="008">140524s1957    gw            00    ger d</controlfield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(RERO)R004689410</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(SGBN)000187319</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NEBIS)000262918</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(IDSBB)000217483</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">CH-MyRERO</subfield>
+            <subfield code="d">CHVBK</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">fre</subfield>
+            <subfield code="a">spa</subfield>
+            <subfield code="h">ara</subfield>
+            <subfield code="h">spa</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="a">sz</subfield>
+            <subfield code="c">ch-ju</subfield>
+        </datafield>
+        <datafield tag="072" ind1=" " ind2="7">
+            <subfield code="a">s1sp</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Castro</subfield>
+            <subfield code="D">Américo</subfield>
+            <subfield code="d">ca. 1880-ca.1930</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Spanien Vision und Wirklichkeit</subfield>
+            <subfield code="c">Americo Castro ; [aus dem Spanischen übertragen von Suzanne Heintz]</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Köln [etc.]</subfield>
+            <subfield code="b">Kiepenheuer und Witsch</subfield>
+            <subfield code="c">1957</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">720 S</subfield>
+            <subfield code="b">127 Taf</subfield>
+            <subfield code="c">4&#39;</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Originaltitel: La realidad histórica de España</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Vol. 1: La voie des ombres</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Vol. 2: Le choix des ombres</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Vol. 3: Au-delà des ombres</subfield>
+        </datafield>
+        <datafield tag="509" ind1=" " ind2="3">
+            <subfield code="a">La realidad histórica de España</subfield>
+        </datafield>
+        <datafield tag="648" ind1=" " ind2="7">
+            <subfield code="a">Geschichte</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Kultur</subfield>
+            <subfield code="0">(DE-588)4125698-0</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Religion</subfield>
+            <subfield code="0">(DE-588)4049396-9</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Schokolade</subfield>
+            <subfield code="0">(DE-588)4053168-5</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="651" ind1=" " ind2="7">
+            <subfield code="a">Spanien</subfield>
+            <subfield code="0">(DE-588)4055964-6</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="690" ind1=" " ind2="7">
+            <subfield code="B">g</subfield>
+            <subfield code="a">Spanien</subfield>
+            <subfield code="x">Geschichte</subfield>
+            <subfield code="2">sgbn S</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">GESCHICHTE</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">93</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">SPANIEN (SÜDWESTEUROPA). KÖNIGREICH SPANIEN</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">(460)</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">KULTURGESCHICHTE</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">930.85</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">HISTORY</subfield>
+            <subfield code="z">eng</subfield>
+            <subfield code="u">93</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">HISTOIRE</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">93</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">ESPAGNE (EUROPE DU SUD-OUEST). ROYAUME D&#39;ESPAGNE</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">(460)</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">SPAIN (SOUTH WEST EUROPE). KINGDOM OF SPAIN</subfield>
+            <subfield code="z">eng</subfield>
+            <subfield code="u">(460)</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">HISTOIRE CULTURELLE</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">930.85</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">CULTURAL HISTORY</subfield>
+            <subfield code="z">eng</subfield>
+            <subfield code="u">930.85</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Heintz</subfield>
+            <subfield code="D">Suzanne</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="c">adjointe scientifique</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Hipler</subfield>
+            <subfield code="D">Günter</subfield>
+        </datafield>
+        <datafield tag="700" ind1="0" ind2=" ">
+            <subfield code="a">Voltaire</subfield>
+            <subfield code="d">1694-1778</subfield>
+            <subfield code="c">écrivain</subfield>
+        </datafield>
+        <datafield tag="700" ind1="0" ind2=" ">
+            <subfield code="a">Nicolas</subfield>
+        </datafield>
+        <datafield tag="773" ind1="1" ind2=" ">
+            <subfield code="t">Quotidien jurassien</subfield>
+            <subfield code="g">1996/03/23</subfield>
+        </datafield>
+        <datafield tag="773" ind1="1" ind2=" ">
+            <subfield code="t">Biel/Bienne</subfield>
+            <subfield code="g">1996/03/25</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">go</subfield>
+            <subfield code="2">SGBN</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">gs</subfield>
+            <subfield code="2">SGBN</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">ga</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">ng</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Castro</subfield>
+            <subfield code="D">Américo</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Heintz</subfield>
+            <subfield code="D">Suzanne</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">SGBN</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Castro</subfield>
+            <subfield code="D">Americo</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Castro</subfield>
+            <subfield code="D">Américo</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Castro</subfield>
+            <subfield code="D">Américo</subfield>
+        </datafield>
+        <datafield tag="986" ind1=" " ind2=" ">
+            <subfield code="a">SWISSBIB</subfield>
+            <subfield code="b">271128399</subfield>
+        </datafield>
+        <datafield tag="898" ind1=" " ind2=" ">
+            <subfield code="a">VM010000</subfield>
+            <subfield code="b">BK020000</subfield>
+        </datafield>
+        <datafield tag="898" ind1=" " ind2=" ">
+            <subfield code="a">VM030400</subfield>
+            <subfield code="b">BK020000</subfield>
+        </datafield>
+        <datafield tag="898" ind1=" " ind2=" ">
+            <subfield code="a">VM040000</subfield>
+            <subfield code="b">BK020000</subfield>
+        </datafield>
+        <datafield tag="898" ind1=" " ind2=" ">
+            <subfield code="a">VM010200</subfield>
+            <subfield code="b">BK020000</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="C">EAD50</subfield>
+            <subfield code="D">EBI01</subfield>
+            <subfield code="E">000262918</subfield>
+            <subfield code="F">E01</subfield>
+            <subfield code="b">E01</subfield>
+            <subfield code="c">01</subfield>
+            <subfield code="j">946332</subfield>
+            <subfield code="p">00100002698171</subfield>
+            <subfield code="q">000262918</subfield>
+            <subfield code="r">000010</subfield>
+            <subfield code="0">ETH-BIB (Zürich)</subfield>
+            <subfield code="1">Magazin</subfield>
+            <subfield code="2">4</subfield>
+            <subfield code="3">BOOK</subfield>
+            <subfield code="4">01</subfield>
+            <subfield code="5">A 28 Tg/140 Tg</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="E">R004689410</subfield>
+            <subfield code="F">RE01001</subfield>
+            <subfield code="b">RE01001</subfield>
+            <subfield code="c">RE010010001</subfield>
+            <subfield code="j">X 488</subfield>
+            <subfield code="p">001150424</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="E">000217483</subfield>
+            <subfield code="F">A100</subfield>
+            <subfield code="b">A100</subfield>
+            <subfield code="c">MAG</subfield>
+            <subfield code="j">ef 124</subfield>
+            <subfield code="p">0UBU0640840</subfield>
+            <subfield code="q">000217483</subfield>
+            <subfield code="r">000010</subfield>
+            <subfield code="0">Basel UB</subfield>
+            <subfield code="1">Magazin</subfield>
+            <subfield code="3">BOOK</subfield>
+            <subfield code="4">01</subfield>
+            <subfield code="5">Heimausleihe</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="E">000217483</subfield>
+            <subfield code="F">A202</subfield>
+            <subfield code="b">A202</subfield>
+            <subfield code="c">202FM</subfield>
+            <subfield code="j">HS AE 695</subfield>
+            <subfield code="p">DSVN280527</subfield>
+            <subfield code="q">000217483</subfield>
+            <subfield code="r">000020</subfield>
+            <subfield code="x">REKAT0203CHW2 / Akz: ba/ihs-/u</subfield>
+            <subfield code="0">Basel Departement Geschichte</subfield>
+            <subfield code="1">Freihandmagazin</subfield>
+            <subfield code="3">BOOK</subfield>
+            <subfield code="4">21</subfield>
+            <subfield code="5">Benutzung an Ort</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="E">000217483</subfield>
+            <subfield code="F">A241</subfield>
+            <subfield code="b">A241</subfield>
+            <subfield code="c">FH</subfield>
+            <subfield code="j">IBR SpA 205</subfield>
+            <subfield code="p">DSVN637374</subfield>
+            <subfield code="q">000217483</subfield>
+            <subfield code="r">000030</subfield>
+            <subfield code="x">REKATA1100303</subfield>
+            <subfield code="0">Basel Sem. f. Iberoromanistik</subfield>
+            <subfield code="1">Freihandbereich</subfield>
+            <subfield code="3">BOOK</subfield>
+            <subfield code="4">11</subfield>
+            <subfield code="5">Heimausleihe</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="E">000217483</subfield>
+            <subfield code="F">B400</subfield>
+            <subfield code="b">B400</subfield>
+            <subfield code="c">400F4</subfield>
+            <subfield code="j">ZB RAB 9992</subfield>
+            <subfield code="p">BM1843072</subfield>
+            <subfield code="q">000217483</subfield>
+            <subfield code="r">000040</subfield>
+            <subfield code="0">Bern UB ZB</subfield>
+            <subfield code="1">vonRoll Speicher F4</subfield>
+            <subfield code="2">i</subfield>
+            <subfield code="3">BOOK</subfield>
+            <subfield code="4">01</subfield>
+            <subfield code="5">Heimausleihe</subfield>
+        </datafield>
+        <datafield tag="956" ind1="4" ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="a">B400</subfield>
+            <subfield code="u">http://www.ub.unibas.ch/tox/IDSBB/000217483/PDF</subfield>
+            <subfield code="q">pdf</subfield>
+            <subfield code="x">VIEW</subfield>
+            <subfield code="y">Inhaltsverzeichnis</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">SGBN</subfield>
+            <subfield code="C">SGB50</subfield>
+            <subfield code="D">SGB01</subfield>
+            <subfield code="E">000187319</subfield>
+            <subfield code="F">SGKBV</subfield>
+            <subfield code="b">SGKBV</subfield>
+            <subfield code="c">KM</subfield>
+            <subfield code="j">VGA Q 13</subfield>
+            <subfield code="p">VGA Q 13</subfield>
+            <subfield code="q">000187319</subfield>
+            <subfield code="r">000010</subfield>
+            <subfield code="0">KB St.Gallen Vadiana</subfield>
+            <subfield code="1">Magazin</subfield>
+            <subfield code="2">i</subfield>
+            <subfield code="3">BOOK</subfield>
+            <subfield code="4">01</subfield>
+            <subfield code="5">ausleihbar</subfield>
+        </datafield>
+    </record>
+    <record type="Bibliographic">
+        <leader>     cam a22     7  4500</leader>
+        <controlfield tag="001">316022063</controlfield>
+        <controlfield tag="003">CHVBK</controlfield>
+        <controlfield tag="005">20140527151224.0</controlfield>
+        <controlfield tag="008">140524s1957    gw            00    ger d</controlfield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(RERO)R004689410</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(SGBN)000187319</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NEBIS)000262918</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(IDSBB)000217483</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">CH-MyRERO</subfield>
+            <subfield code="d">CHVBK</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">fre</subfield>
+            <subfield code="a">spa</subfield>
+            <subfield code="h">ara</subfield>
+            <subfield code="h">spa</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="a">sz</subfield>
+            <subfield code="c">ch-ju</subfield>
+        </datafield>
+        <datafield tag="072" ind1=" " ind2="7">
+            <subfield code="a">s1sp</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Castro</subfield>
+            <subfield code="D">Américo</subfield>
+            <subfield code="d">ca. 1880-ca.1930</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Spanien Vision und Wirklichkeit</subfield>
+            <subfield code="c">Americo Castro ; [aus dem Spanischen übertragen von Suzanne Heintz]</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Köln [etc.]</subfield>
+            <subfield code="b">Kiepenheuer und Witsch</subfield>
+            <subfield code="c">1957</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">720 S</subfield>
+            <subfield code="b">127 Taf</subfield>
+            <subfield code="c">4&#39;</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Originaltitel: La realidad histórica de España</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Vol. 1: La voie des ombres</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Vol. 2: Le choix des ombres</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Vol. 3: Au-delà des ombres</subfield>
+        </datafield>
+        <datafield tag="509" ind1=" " ind2="3">
+            <subfield code="a">La realidad histórica de España</subfield>
+        </datafield>
+        <datafield tag="648" ind1=" " ind2="7">
+            <subfield code="a">Geschichte</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Kultur</subfield>
+            <subfield code="0">(DE-588)4125698-0</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Religion</subfield>
+            <subfield code="0">(DE-588)4049396-9</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Schokolade</subfield>
+            <subfield code="0">(DE-588)4053168-5</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="651" ind1=" " ind2="7">
+            <subfield code="a">Spanien</subfield>
+            <subfield code="0">(DE-588)4055964-6</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="690" ind1=" " ind2="7">
+            <subfield code="B">g</subfield>
+            <subfield code="a">Spanien</subfield>
+            <subfield code="x">Geschichte</subfield>
+            <subfield code="2">sgbn S</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">GESCHICHTE</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">93</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">SPANIEN (SÜDWESTEUROPA). KÖNIGREICH SPANIEN</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">(460)</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">KULTURGESCHICHTE</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">930.85</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">HISTORY</subfield>
+            <subfield code="z">eng</subfield>
+            <subfield code="u">93</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">HISTOIRE</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">93</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">ESPAGNE (EUROPE DU SUD-OUEST). ROYAUME D&#39;ESPAGNE</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">(460)</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">SPAIN (SOUTH WEST EUROPE). KINGDOM OF SPAIN</subfield>
+            <subfield code="z">eng</subfield>
+            <subfield code="u">(460)</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">HISTOIRE CULTURELLE</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">930.85</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">CULTURAL HISTORY</subfield>
+            <subfield code="z">eng</subfield>
+            <subfield code="u">930.85</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Heintz</subfield>
+            <subfield code="D">Suzanne</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="c">adjointe scientifique</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Hipler</subfield>
+            <subfield code="D">Günter</subfield>
+        </datafield>
+        <datafield tag="700" ind1="0" ind2=" ">
+            <subfield code="a">Voltaire</subfield>
+            <subfield code="d">1694-1778</subfield>
+            <subfield code="c">écrivain</subfield>
+        </datafield>
+        <datafield tag="700" ind1="0" ind2=" ">
+            <subfield code="a">Nicolas</subfield>
+        </datafield>
+        <datafield tag="773" ind1="1" ind2=" ">
+            <subfield code="t">Quotidien jurassien</subfield>
+            <subfield code="g">1996/03/23</subfield>
+        </datafield>
+        <datafield tag="773" ind1="1" ind2=" ">
+            <subfield code="t">Biel/Bienne</subfield>
+            <subfield code="g">1996/03/25</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">go</subfield>
+            <subfield code="2">SGBN</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">gs</subfield>
+            <subfield code="2">SGBN</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">ga</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">ng</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Castro</subfield>
+            <subfield code="D">Américo</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Heintz</subfield>
+            <subfield code="D">Suzanne</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">SGBN</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Castro</subfield>
+            <subfield code="D">Americo</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Castro</subfield>
+            <subfield code="D">Américo</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Castro</subfield>
+            <subfield code="D">Américo</subfield>
+        </datafield>
+        <datafield tag="986" ind1=" " ind2=" ">
+            <subfield code="a">SWISSBIB</subfield>
+            <subfield code="b">271128399</subfield>
+        </datafield>
+        <datafield tag="898" ind1=" " ind2=" ">
+            <subfield code="a">VM010000</subfield>
+            <subfield code="b">BK020000</subfield>
+        </datafield>
+        <datafield tag="898" ind1=" " ind2=" ">
+            <subfield code="a">VM030400</subfield>
+            <subfield code="b">BK020000</subfield>
+        </datafield>
+        <datafield tag="898" ind1=" " ind2=" ">
+            <subfield code="a">VM040000</subfield>
+            <subfield code="b">BK020000</subfield>
+        </datafield>
+        <datafield tag="898" ind1=" " ind2=" ">
+            <subfield code="a">VM010200</subfield>
+            <subfield code="b">BK020000</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="C">EAD50</subfield>
+            <subfield code="D">EBI01</subfield>
+            <subfield code="E">000262918</subfield>
+            <subfield code="F">E01</subfield>
+            <subfield code="b">E01</subfield>
+            <subfield code="c">01</subfield>
+            <subfield code="j">946332</subfield>
+            <subfield code="p">00100002698171</subfield>
+            <subfield code="q">000262918</subfield>
+            <subfield code="r">000010</subfield>
+            <subfield code="0">ETH-BIB (Zürich)</subfield>
+            <subfield code="1">Magazin</subfield>
+            <subfield code="2">4</subfield>
+            <subfield code="3">BOOK</subfield>
+            <subfield code="4">01</subfield>
+            <subfield code="5">A 28 Tg/140 Tg</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="E">R004689410</subfield>
+            <subfield code="F">RE01001</subfield>
+            <subfield code="b">RE01001</subfield>
+            <subfield code="c">RE010010001</subfield>
+            <subfield code="j">X 488</subfield>
+            <subfield code="p">001150424</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="E">000217483</subfield>
+            <subfield code="F">A100</subfield>
+            <subfield code="b">A100</subfield>
+            <subfield code="c">MAG</subfield>
+            <subfield code="j">ef 124</subfield>
+            <subfield code="p">0UBU0640840</subfield>
+            <subfield code="q">000217483</subfield>
+            <subfield code="r">000010</subfield>
+            <subfield code="0">Basel UB</subfield>
+            <subfield code="1">Magazin</subfield>
+            <subfield code="3">BOOK</subfield>
+            <subfield code="4">01</subfield>
+            <subfield code="5">Heimausleihe</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="E">000217483</subfield>
+            <subfield code="F">A202</subfield>
+            <subfield code="b">A202</subfield>
+            <subfield code="c">202FM</subfield>
+            <subfield code="j">HS AE 695</subfield>
+            <subfield code="p">DSVN280527</subfield>
+            <subfield code="q">000217483</subfield>
+            <subfield code="r">000020</subfield>
+            <subfield code="x">REKAT0203CHW2 / Akz: ba/ihs-/u</subfield>
+            <subfield code="0">Basel Departement Geschichte</subfield>
+            <subfield code="1">Freihandmagazin</subfield>
+            <subfield code="3">BOOK</subfield>
+            <subfield code="4">21</subfield>
+            <subfield code="5">Benutzung an Ort</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="E">000217483</subfield>
+            <subfield code="F">A241</subfield>
+            <subfield code="b">A241</subfield>
+            <subfield code="c">FH</subfield>
+            <subfield code="j">IBR SpA 205</subfield>
+            <subfield code="p">DSVN637374</subfield>
+            <subfield code="q">000217483</subfield>
+            <subfield code="r">000030</subfield>
+            <subfield code="x">REKATA1100303</subfield>
+            <subfield code="0">Basel Sem. f. Iberoromanistik</subfield>
+            <subfield code="1">Freihandbereich</subfield>
+            <subfield code="3">BOOK</subfield>
+            <subfield code="4">11</subfield>
+            <subfield code="5">Heimausleihe</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="E">000217483</subfield>
+            <subfield code="F">B400</subfield>
+            <subfield code="b">B400</subfield>
+            <subfield code="c">400F4</subfield>
+            <subfield code="j">ZB RAB 9992</subfield>
+            <subfield code="p">BM1843072</subfield>
+            <subfield code="q">000217483</subfield>
+            <subfield code="r">000040</subfield>
+            <subfield code="0">Bern UB ZB</subfield>
+            <subfield code="1">vonRoll Speicher F4</subfield>
+            <subfield code="2">i</subfield>
+            <subfield code="3">BOOK</subfield>
+            <subfield code="4">01</subfield>
+            <subfield code="5">Heimausleihe</subfield>
+        </datafield>
+        <datafield tag="956" ind1="4" ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="a">B400</subfield>
+            <subfield code="u">http://www.ub.unibas.ch/tox/IDSBB/000217483/PDF</subfield>
+            <subfield code="q">pdf</subfield>
+            <subfield code="x">VIEW</subfield>
+            <subfield code="y">Inhaltsverzeichnis</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">SGBN</subfield>
+            <subfield code="C">SGB50</subfield>
+            <subfield code="D">SGB01</subfield>
+            <subfield code="E">000187319</subfield>
+            <subfield code="F">SGKBV</subfield>
+            <subfield code="b">SGKBV</subfield>
+            <subfield code="c">KM</subfield>
+            <subfield code="j">VGA Q 13</subfield>
+            <subfield code="p">VGA Q 13</subfield>
+            <subfield code="q">000187319</subfield>
+            <subfield code="r">000010</subfield>
+            <subfield code="0">KB St.Gallen Vadiana</subfield>
+            <subfield code="1">Magazin</subfield>
+            <subfield code="2">i</subfield>
+            <subfield code="3">BOOK</subfield>
+            <subfield code="4">01</subfield>
+            <subfield code="5">ausleihbar</subfield>
+        </datafield>
+    </record>
+    <record type="Bibliographic">
+        <leader>     cam a22     7  4500</leader>
+        <controlfield tag="001">316022063</controlfield>
+        <controlfield tag="003">CHVBK</controlfield>
+        <controlfield tag="005">20140527151224.0</controlfield>
+        <controlfield tag="008">140524s1957    gw            00    ger d</controlfield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(RERO)R004689410</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(SGBN)000187319</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(NEBIS)000262918</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(IDSBB)000217483</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">CH-MyRERO</subfield>
+            <subfield code="d">CHVBK</subfield>
+        </datafield>
+        <datafield tag="041" ind1="1" ind2=" ">
+            <subfield code="a">fre</subfield>
+            <subfield code="a">spa</subfield>
+            <subfield code="h">ara</subfield>
+            <subfield code="h">spa</subfield>
+        </datafield>
+        <datafield tag="044" ind1=" " ind2=" ">
+            <subfield code="a">sz</subfield>
+            <subfield code="c">ch-ju</subfield>
+        </datafield>
+        <datafield tag="072" ind1=" " ind2="7">
+            <subfield code="a">s1sp</subfield>
+            <subfield code="2">rero</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Castro</subfield>
+            <subfield code="D">Américo</subfield>
+            <subfield code="d">ca. 1880-ca.1930</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">Spanien Vision und Wirklichkeit</subfield>
+            <subfield code="c">Americo Castro ; [aus dem Spanischen übertragen von Suzanne Heintz]</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Köln [etc.]</subfield>
+            <subfield code="b">Kiepenheuer und Witsch</subfield>
+            <subfield code="c">1957</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">720 S</subfield>
+            <subfield code="b">127 Taf</subfield>
+            <subfield code="c">4&#39;</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">Originaltitel: La realidad histórica de España</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Vol. 1: La voie des ombres</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Vol. 2: Le choix des ombres</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">Vol. 3: Au-delà des ombres</subfield>
+        </datafield>
+        <datafield tag="509" ind1=" " ind2="3">
+            <subfield code="a">La realidad histórica de España</subfield>
+        </datafield>
+        <datafield tag="648" ind1=" " ind2="7">
+            <subfield code="a">Geschichte</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Kultur</subfield>
+            <subfield code="0">(DE-588)4125698-0</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Religion</subfield>
+            <subfield code="0">(DE-588)4049396-9</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Schokolade</subfield>
+            <subfield code="0">(DE-588)4053168-5</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="651" ind1=" " ind2="7">
+            <subfield code="a">Spanien</subfield>
+            <subfield code="0">(DE-588)4055964-6</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="690" ind1=" " ind2="7">
+            <subfield code="B">g</subfield>
+            <subfield code="a">Spanien</subfield>
+            <subfield code="x">Geschichte</subfield>
+            <subfield code="2">sgbn S</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">GESCHICHTE</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">93</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">SPANIEN (SÜDWESTEUROPA). KÖNIGREICH SPANIEN</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">(460)</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">KULTURGESCHICHTE</subfield>
+            <subfield code="z">ger</subfield>
+            <subfield code="u">930.85</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">HISTORY</subfield>
+            <subfield code="z">eng</subfield>
+            <subfield code="u">93</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">HISTOIRE</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">93</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">ESPAGNE (EUROPE DU SUD-OUEST). ROYAUME D&#39;ESPAGNE</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">(460)</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">SPAIN (SOUTH WEST EUROPE). KINGDOM OF SPAIN</subfield>
+            <subfield code="z">eng</subfield>
+            <subfield code="u">(460)</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">HISTOIRE CULTURELLE</subfield>
+            <subfield code="z">fre</subfield>
+            <subfield code="u">930.85</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="a">CULTURAL HISTORY</subfield>
+            <subfield code="z">eng</subfield>
+            <subfield code="u">930.85</subfield>
+            <subfield code="2">nebis E1</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Heintz</subfield>
+            <subfield code="D">Suzanne</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="c">adjointe scientifique</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Hipler</subfield>
+            <subfield code="D">Günter</subfield>
+        </datafield>
+        <datafield tag="700" ind1="0" ind2=" ">
+            <subfield code="a">Voltaire</subfield>
+            <subfield code="d">1694-1778</subfield>
+            <subfield code="c">écrivain</subfield>
+        </datafield>
+        <datafield tag="700" ind1="0" ind2=" ">
+            <subfield code="a">Nicolas</subfield>
+        </datafield>
+        <datafield tag="773" ind1="1" ind2=" ">
+            <subfield code="t">Quotidien jurassien</subfield>
+            <subfield code="g">1996/03/23</subfield>
+        </datafield>
+        <datafield tag="773" ind1="1" ind2=" ">
+            <subfield code="t">Biel/Bienne</subfield>
+            <subfield code="g">1996/03/25</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">go</subfield>
+            <subfield code="2">SGBN</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">gs</subfield>
+            <subfield code="2">SGBN</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">ga</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">ng</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Castro</subfield>
+            <subfield code="D">Américo</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Heintz</subfield>
+            <subfield code="D">Suzanne</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">SGBN</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Castro</subfield>
+            <subfield code="D">Americo</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Castro</subfield>
+            <subfield code="D">Américo</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Castro</subfield>
+            <subfield code="D">Américo</subfield>
+        </datafield>
+        <datafield tag="986" ind1=" " ind2=" ">
+            <subfield code="a">SWISSBIB</subfield>
+            <subfield code="b">271128399</subfield>
+        </datafield>
+        <datafield tag="898" ind1=" " ind2=" ">
+            <subfield code="a">VM010000</subfield>
+            <subfield code="b">BK020000</subfield>
+        </datafield>
+        <datafield tag="898" ind1=" " ind2=" ">
+            <subfield code="a">VM030400</subfield>
+            <subfield code="b">BK020000</subfield>
+        </datafield>
+        <datafield tag="898" ind1=" " ind2=" ">
+            <subfield code="a">VM040000</subfield>
+            <subfield code="b">BK020000</subfield>
+        </datafield>
+        <datafield tag="898" ind1=" " ind2=" ">
+            <subfield code="a">VM010200</subfield>
+            <subfield code="b">BK020000</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">NEBIS</subfield>
+            <subfield code="C">EAD50</subfield>
+            <subfield code="D">EBI01</subfield>
+            <subfield code="E">000262918</subfield>
+            <subfield code="F">E01</subfield>
+            <subfield code="b">E01</subfield>
+            <subfield code="c">01</subfield>
+            <subfield code="j">946332</subfield>
+            <subfield code="p">00100002698171</subfield>
+            <subfield code="q">000262918</subfield>
+            <subfield code="r">000010</subfield>
+            <subfield code="0">ETH-BIB (Zürich)</subfield>
+            <subfield code="1">Magazin</subfield>
+            <subfield code="2">4</subfield>
+            <subfield code="3">BOOK</subfield>
+            <subfield code="4">01</subfield>
+            <subfield code="5">A 28 Tg/140 Tg</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">RERO</subfield>
+            <subfield code="E">R004689410</subfield>
+            <subfield code="F">RE01001</subfield>
+            <subfield code="b">RE01001</subfield>
+            <subfield code="c">RE010010001</subfield>
+            <subfield code="j">X 488</subfield>
+            <subfield code="p">001150424</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="E">000217483</subfield>
+            <subfield code="F">A100</subfield>
+            <subfield code="b">A100</subfield>
+            <subfield code="c">MAG</subfield>
+            <subfield code="j">ef 124</subfield>
+            <subfield code="p">0UBU0640840</subfield>
+            <subfield code="q">000217483</subfield>
+            <subfield code="r">000010</subfield>
+            <subfield code="0">Basel UB</subfield>
+            <subfield code="1">Magazin</subfield>
+            <subfield code="3">BOOK</subfield>
+            <subfield code="4">01</subfield>
+            <subfield code="5">Heimausleihe</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="E">000217483</subfield>
+            <subfield code="F">A202</subfield>
+            <subfield code="b">A202</subfield>
+            <subfield code="c">202FM</subfield>
+            <subfield code="j">HS AE 695</subfield>
+            <subfield code="p">DSVN280527</subfield>
+            <subfield code="q">000217483</subfield>
+            <subfield code="r">000020</subfield>
+            <subfield code="x">REKAT0203CHW2 / Akz: ba/ihs-/u</subfield>
+            <subfield code="0">Basel Departement Geschichte</subfield>
+            <subfield code="1">Freihandmagazin</subfield>
+            <subfield code="3">BOOK</subfield>
+            <subfield code="4">21</subfield>
+            <subfield code="5">Benutzung an Ort</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="E">000217483</subfield>
+            <subfield code="F">A241</subfield>
+            <subfield code="b">A241</subfield>
+            <subfield code="c">FH</subfield>
+            <subfield code="j">IBR SpA 205</subfield>
+            <subfield code="p">DSVN637374</subfield>
+            <subfield code="q">000217483</subfield>
+            <subfield code="r">000030</subfield>
+            <subfield code="x">REKATA1100303</subfield>
+            <subfield code="0">Basel Sem. f. Iberoromanistik</subfield>
+            <subfield code="1">Freihandbereich</subfield>
+            <subfield code="3">BOOK</subfield>
+            <subfield code="4">11</subfield>
+            <subfield code="5">Heimausleihe</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="E">000217483</subfield>
+            <subfield code="F">B400</subfield>
+            <subfield code="b">B400</subfield>
+            <subfield code="c">400F4</subfield>
+            <subfield code="j">ZB RAB 9992</subfield>
+            <subfield code="p">BM1843072</subfield>
+            <subfield code="q">000217483</subfield>
+            <subfield code="r">000040</subfield>
+            <subfield code="0">Bern UB ZB</subfield>
+            <subfield code="1">vonRoll Speicher F4</subfield>
+            <subfield code="2">i</subfield>
+            <subfield code="3">BOOK</subfield>
+            <subfield code="4">01</subfield>
+            <subfield code="5">Heimausleihe</subfield>
+        </datafield>
+        <datafield tag="956" ind1="4" ind2=" ">
+            <subfield code="B">IDSBB</subfield>
+            <subfield code="C">DSV51</subfield>
+            <subfield code="D">DSV01</subfield>
+            <subfield code="a">B400</subfield>
+            <subfield code="u">http://www.ub.unibas.ch/tox/IDSBB/000217483/PDF</subfield>
+            <subfield code="q">pdf</subfield>
+            <subfield code="x">VIEW</subfield>
+            <subfield code="y">Inhaltsverzeichnis</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">SGBN</subfield>
+            <subfield code="C">SGB50</subfield>
+            <subfield code="D">SGB01</subfield>
+            <subfield code="E">000187319</subfield>
+            <subfield code="F">SGKBV</subfield>
+            <subfield code="b">SGKBV</subfield>
+            <subfield code="c">KM</subfield>
+            <subfield code="j">VGA Q 13</subfield>
+            <subfield code="p">VGA Q 13</subfield>
+            <subfield code="q">000187319</subfield>
+            <subfield code="r">000010</subfield>
+            <subfield code="0">KB St.Gallen Vadiana</subfield>
+            <subfield code="1">Magazin</subfield>
+            <subfield code="2">i</subfield>
+            <subfield code="3">BOOK</subfield>
+            <subfield code="4">01</subfield>
+            <subfield code="5">ausleihbar</subfield>
+        </datafield>
+    </record>
+    <record type="Bibliographic">
+        <leader>     cam a22     4  4500</leader>
+        <controlfield tag="001">316022101</controlfield>
+        <controlfield tag="003">CHVBK</controlfield>
+        <controlfield tag="005">20140608080034.0</controlfield>
+        <controlfield tag="008">140524s2013    sz            00    ger d</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">978-3-85637-429-7</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(BGR)000541268</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(SNL)vtls001738136</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">(Sz)001738136</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">Sz</subfield>
+            <subfield code="d">Sz-ChBGR KBG</subfield>
+        </datafield>
+        <datafield tag="082" ind1="7" ind2="4">
+            <subfield code="a">200</subfield>
+            <subfield code="2">23sdnb</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Rataj</subfield>
+            <subfield code="D">Dorothée</subfield>
+            <subfield code="c">Mlle</subfield>
+            <subfield code="d">1999 - ?</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="4">
+            <subfield code="a">Der spirituelle Weg</subfield>
+            <subfield code="b">die Re-Sakralisierung des Lebens</subfield>
+            <subfield code="c">Dorothée und Heinz Rataj</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Chur</subfield>
+            <subfield code="b">Edition HerzWerk</subfield>
+            <subfield code="c">2013</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">213 S</subfield>
+            <subfield code="b">Ill</subfield>
+            <subfield code="c">21 cm</subfield>
+        </datafield>
+        <datafield tag="502" ind1=" " ind2=" ">
+            <subfield code="a">Travail de bachelor réalisé en vue de l'obtention du master HES à la Haute école de gestion de Genève (HEG-GE), orientation management et ingénierie des services</subfield>
+        </datafield>
+        <datafield tag="580" ind1=" " ind2=" ">
+            <subfield code="a">In: La tribune de Genève, mars 2014</subfield>
+        </datafield>
+        <datafield tag="580" ind1=" " ind2=" ">
+            <subfield code="a">In: Le journal du Jura, janvier 2014</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Spiritualität</subfield>
+            <subfield code="0">(DE-588)4116568-8</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Stufenweg</subfield>
+            <subfield code="0">(DE-588)4827733-2</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Kosmisches Bewusstsein</subfield>
+            <subfield code="0">(DE-588)4216490-4</subfield>
+            <subfield code="2">gnd</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="u">77.92</subfield>
+            <subfield code="2">bgr PZ</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="B">u</subfield>
+            <subfield code="u">02.50</subfield>
+            <subfield code="2">bgr PZ</subfield>
+        </datafield>
+        <datafield tag="691" ind1=" " ind2="7">
+            <subfield code="a">sb</subfield>
+            <subfield code="b">2013/05</subfield>
+            <subfield code="c">200</subfield>
+            <subfield code="k">gr</subfield>
+            <subfield code="2">snl sb_2001</subfield>
+        </datafield>
+        <datafield tag="700" ind1="1" ind2=" ">
+            <subfield code="a">Rataj</subfield>
+            <subfield code="D">Heinz</subfield>
+        </datafield>
+        <datafield tag="773" ind1="1" ind2=" ">
+            <subfield code="t">Le Journal du Jura</subfield>
+            <subfield code="d">Bienne</subfield>
+            <subfield code="g">2014, N° 31 (5.2.), p. 15. - Ill.</subfield>
+            <subfield code="j">2014/29/12</subfield>
+            <subfield code="1">2014</subfield>
+            <subfield code="2">2014</subfield>
+            <subfield code="w">(IDSBB)002245784</subfield>
+            <subfield code="9">078413621</subfield>
+        </datafield>
+        <datafield tag="773" ind1="1" ind2=" ">
+            <subfield code="t">Le tribune de Genève</subfield>
+            <subfield code="d">Genève</subfield>
+            <subfield code="g">2014, N° 30 (5.2.), p. 14. - Ill.</subfield>
+            <subfield code="j">2014/29/12</subfield>
+            <subfield code="1">2014</subfield>
+            <subfield code="2">2014</subfield>
+            <subfield code="w">(IDSBB)000145736</subfield>
+            <subfield code="9">273140949</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">http://opac.admin.ch/gw/toc/pdf/toc001738136.pdf</subfield>
+            <subfield code="z">Inhaltsverzeichnis</subfield>
+            <subfield code="3">Inhaltsverzeichnis</subfield>
+        </datafield>
+        <datafield tag="909" ind1=" " ind2="7">
+            <subfield code="a">raet</subfield>
+            <subfield code="c">greo</subfield>
+            <subfield code="2">bgr P</subfield>
+        </datafield>
+        <datafield tag="909" ind1=" " ind2="7">
+            <subfield code="a">baut</subfield>
+            <subfield code="2">bgr P</subfield>
+        </datafield>
+        <datafield tag="912" ind1=" " ind2="7">
+            <subfield code="a">rt</subfield>
+            <subfield code="2">Sz-ChBGR</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">BGR</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Rataj</subfield>
+            <subfield code="D">Dorothée</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">BGR</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Rataj</subfield>
+            <subfield code="D">Heinz</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">BGR</subfield>
+            <subfield code="P">856</subfield>
+            <subfield code="E">--</subfield>
+            <subfield code="u">http://opac.admin.ch/gw/toc/pdf/toc001738136.pdf</subfield>
+            <subfield code="z">Inhaltsverzeichnis</subfield>
+            <subfield code="3">Inhaltsverzeichnis</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">SNL</subfield>
+            <subfield code="P">100</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Rataj</subfield>
+            <subfield code="D">Dorothée</subfield>
+        </datafield>
+        <datafield tag="950" ind1=" " ind2=" ">
+            <subfield code="B">SNL</subfield>
+            <subfield code="P">700</subfield>
+            <subfield code="E">1-</subfield>
+            <subfield code="a">Rataj</subfield>
+            <subfield code="D">Heinz</subfield>
+        </datafield>
+        <datafield tag="898" ind1=" " ind2=" ">
+            <subfield code="a">BK020000</subfield>
+            <subfield code="b">BK020000</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">SNL</subfield>
+            <subfield code="E">vtls001738136</subfield>
+            <subfield code="F">NB001</subfield>
+            <subfield code="b">NB001</subfield>
+            <subfield code="j">N 335239</subfield>
+            <subfield code="c">NB10010</subfield>
+            <subfield code="p">1901850988</subfield>
+            <subfield code="4">100</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">BGR</subfield>
+            <subfield code="C">BGR51</subfield>
+            <subfield code="D">BGR01</subfield>
+            <subfield code="E">000541268</subfield>
+            <subfield code="F">KBG</subfield>
+            <subfield code="b">KBG</subfield>
+            <subfield code="c">KBGMA</subfield>
+            <subfield code="j">KBG B 1718</subfield>
+            <subfield code="p">QM287358</subfield>
+            <subfield code="q">000541268</subfield>
+            <subfield code="r">000020</subfield>
+            <subfield code="0">CHUR-Kantonsbibliothek</subfield>
+            <subfield code="1">Magazin</subfield>
+            <subfield code="3">BOOK</subfield>
+            <subfield code="4">01</subfield>
+            <subfield code="5">MA ausleihbar</subfield>
+        </datafield>
+        <datafield tag="949" ind1=" " ind2=" ">
+            <subfield code="B">BGR</subfield>
+            <subfield code="C">BGR51</subfield>
+            <subfield code="D">BGR01</subfield>
+            <subfield code="E">000541268</subfield>
+            <subfield code="F">KBG</subfield>
+            <subfield code="b">KBG</subfield>
+            <subfield code="c">KBGMA</subfield>
+            <subfield code="j">KBG U 2761</subfield>
+            <subfield code="p">QMN257063</subfield>
+            <subfield code="q">000541268</subfield>
+            <subfield code="r">000010</subfield>
+            <subfield code="0">CHUR-Kantonsbibliothek</subfield>
+            <subfield code="1">Magazin</subfield>
+            <subfield code="3">BOOK</subfield>
+            <subfield code="4">41</subfield>
+            <subfield code="5">keine Ausleihe</subfield>
+        </datafield>
+        <datafield tag="956" ind1="4" ind2=" ">
+            <subfield code="B">BGR</subfield>
+            <subfield code="C">BGR51</subfield>
+            <subfield code="D">BGR01</subfield>
+            <subfield code="a">KBG</subfield>
+            <subfield code="u">http://aleph.gr.ch:80/F?func=service&#38;doc_library=BGR01&#38;doc_number=000541268&#38;line_number=0001&#38;func_code=DB_RECORDS&#38;service_type=MEDIA</subfield>
+            <subfield code="d">$alephe_root/../ADAM-Objekte/view/4</subfield>
+            <subfield code="f">541268_000213015.pdf</subfield>
+            <subfield code="q">pdf</subfield>
+            <subfield code="x">VIEW</subfield>
+            <subfield code="y">Titelseite und Inhaltsverzeichnis</subfield>
+        </datafield>
+    </record>
+</collection>
+

@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:void="http://rdfs.org/ns/void#" xmlns:dbp="http://dbpedia.org/ontology/" xmlns:dct="http://purl.org/dc/terms/" xmlns:bf="http://bibframe.org/vocab/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+		<type>Bibliographic</type>
+		<leader>cam a22     4  4500</leader>
+		<001>318618583</001>
+		<003>CHVBK</003>
+		<005>20150327052427.0</005>
+		<008>140724s2015    xxu           00    eng|d</008>
+		<015  .a>GBB4-16956</015  .a>
+		<015  .2>bnb</015  .2>
+		<020  .a>978-0-13-254436-8 (hbk.)</020  .a>
+		<035  .a>(IDSBB)006237703</035  .a>
+		<035  .a>(RERO)R007850485</035  .a>
+		<035  .a>(NEBIS)010081337</035  .a>
+		<035  .a>(OCoLC)870646444</035  .a>
+		<040  .a>UKMGB</040  .a>
+		<040  .d>SzZuIDS BS/BE B400</040  .d>
+		<072 7.a>s1se</072 7.a>
+		<072 7.2>rero</072 7.2>
+		<0820 .a>658.8342</0820 .a>
+		<0820 .2>23</0820 .2>
+		<084  .a>QW 300</084  .a>
+		<084  .2>rvk</084  .2>
+		<084  .a>QW 301</084  .a>
+		<084  .2>cdu</084  .2>
+		<084  .a>QW 302</084  .a>
+		<084  .2>rvk</084  .2>
+		<1001 .a>Schiffman</1001 .a>
+		<1001 .D>L. G.</1001 .D>
+		<1001 .q>Léon Gaspard</1001 .q>
+		<1001 .d>?-1998</1001 .d>
+		<24510.a>Consumer behavior</24510.a>
+		<24510.c>Leon G. Schiffman, Joseph L. Wisenblit</24510.c>
+		<250  .a>11th ed</250  .a>
+		<250  .b>corr. and rev. by Joseph Wisenblit</250  .b>
+		<250  .a>3. Aufl.</250  .a>
+		<260  .a>Boston</260  .a>
+		<260  .b>Pearson</260  .b>
+		<260  .c>2015</260  .c>
+		<300  .a>492 S</300  .a>
+		<300  .b>Ill</300  .b>
+		<4900 .a>Always learning</4900 .a>
+		<500  .a>Global edition</500  .a>
+		<504  .a>Includes bibliographical references and index</504  .a>
+		<650 7.a>Verbraucherverhalten</650 7.a>
+		<650 7.0>(DE-588)4062644-1</650 7.0>
+		<650 7.2>gnd</650 7.2>
+		<650 0.a>Motivation research (Marketing)</650 0.a>
+		<650 7.a>Consommateurs</650 7.a>
+		<650 7.x>Comportement</650 7.x>
+		<650 7.2>rero</650 7.2>
+		<650 7.a>Études de motivation</650 7.a>
+		<650 7.2>rero</650 7.2>
+		<650 0.a>Consumer behavior</650 0.a>
+		<655 7.a>Lehrbuch</655 7.a>
+		<655 7.2>gnd</655 7.2>
+		<655 7.a>Manuels d&apos;enseignement supérieur</655 7.a>
+		<655 7.2>rero</655 7.2>
+		<691 7.B>u</691 7.B>
+		<691 7.a>Produktionsfaktoren und Verteilungsquoten</691 7.a>
+		<691 7.z>eng</691 7.z>
+		<691 7.u>QC 200</691 7.u>
+		<691 7.2>libib XF</691 7.2>
+		<691 7.B>u</691 7.B>
+		<691 7.a>Kapital</691 7.a>
+		<691 7.c>Wirtschaftswissenschaften</691 7.c>
+		<691 7.u>330.14</691 7.u>
+		<691 7.2>libib XD</691 7.2>
+		<691 7.B>u</691 7.B>
+		<691 7.a>KONSUMVERHALTEN + KONSUMENTENVERHALTEN</691 7.a>
+		<691 7.z>ger</691 7.z>
+		<691 7.u>65,11.1.10.1</691 7.u>
+		<691 7.2>nebis E1</691 7.2>
+		<691 7.B>u</691 7.B>
+		<691 7.a>ATTITUDE DE CONSOMMATION + COMPORTEMENT DU CONSOMMATEUR</691 7.a>
+		<691 7.z>fre</691 7.z>
+		<691 7.u>65,11.1.10.1</691 7.u>
+		<691 7.2>nebis E1</691 7.2>
+		<691 7.B>u</691 7.B>
+		<691 7.a>MANUELS POUR L&apos;ENSEIGNEMENT (TYPE DE DOCUMENT)</691 7.a>
+		<691 7.z>fre</691 7.z>
+		<691 7.u>(075)</691 7.u>
+		<691 7.2>nebis E1</691 7.2>
+		<691 7.B>u</691 7.B>
+		<691 7.a>LEHRBÜCHER (DOKUMENTENTYP)</691 7.a>
+		<691 7.z>ger</691 7.z>
+		<691 7.u>(075)</691 7.u>
+		<691 7.2>nebis E1</691 7.2>
+		<7001 .a>Wisenblit</7001 .a>
+		<7001 .D>Joseph</7001 .D>
+		<7001 .4>fmo</7001 .4>
+		<898  .a>BK020000</898  .a>
+		<898  .b>XK020000</898  .b>
+		<912 7.a>bw</912 7.a>
+		<912 7.a>171</912 7.a>
+		<912 7.2>E01-20140714</912 7.2>
+		<949  .B>RERO</949  .B>
+		<949  .F>RE01046</949  .F>
+		<949  .j>FSES M22</949  .j>
+		<949  .s>TEB 26664A</949  .s>
+		<949  .B>RERO</949  .B>
+		<949  .F>RE31014</949  .F>
+		<949  .j>BSE F5/ 1569</949  .j>
+		<949  .B>RERO</949  .B>
+		<949  .F>RE31014</949  .F>
+		<949  .j>BSE F5/ 1573</949  .j>
+		<949  .B>RERO</949  .B>
+		<949  .F>RE31014</949  .F>
+		<949  .j>BSE F5/ 1571</949  .j>
+		<949  .B>RERO</949  .B>
+		<949  .F>RE31014</949  .F>
+		<949  .j>BSE F5/ 1572</949  .j>
+		<949  .B>RERO</949  .B>
+		<949  .F>RE31014</949  .F>
+		<949  .j>BSE F5/ 1570</949  .j>
+		<949  .B>IDSBB</949  .B>
+		<949  .F>A125</949  .F>
+		<949  .B>NEBIS</949  .B>
+		<949  .F>E01</949  .F>
+		<949  .j>T 55278</949  .j>
+		<949  .B>IDSBB</949  .B>
+		<949  .F>B400</949  .F>
+		<949  .j>ZB RAB 13511</949  .j>
+		<949  .x>NELB4001407</949  .x>
+		<949  .B>IDSBB</949  .B>
+		<949  .F>HSG</949  .F>
+		<949  .j>ZB RAB 13512</949  .j>
+		<949  .x>NELB4001407</949  .x>
+		<950  .B>IDSBB</950  .B>
+		<950  .P>100</950  .P>
+		<950  .E>1-</950  .E>
+		<950  .a>Schiffman</950  .a>
+		<950  .D>Leon G.</950  .D>
+		<950  .B>IDSBB</950  .B>
+		<950  .P>490</950  .P>
+		<950  .E>--</950  .E>
+		<950  .a>Always learning</950  .a>
+		<950  .B>IDSBB</950  .B>
+		<950  .P>700</950  .P>
+		<950  .E>1-</950  .E>
+		<950  .a>Wisenblit</950  .a>
+		<950  .D>Joseph</950  .D>
+		<950  .B>RERO</950  .B>
+		<950  .P>100</950  .P>
+		<950  .E>1-</950  .E>
+		<950  .a>Schiffman</950  .a>
+		<950  .D>Leon G.</950  .D>
+		<950  .B>RERO</950  .B>
+		<950  .P>700</950  .P>
+		<950  .E>1-</950  .E>
+		<950  .a>Wisenblit</950  .a>
+		<950  .D>Joseph</950  .D>
+		<950  .B>NEBIS</950  .B>
+		<950  .P>700</950  .P>
+		<950  .E>1-</950  .E>
+		<950  .a>Schiffman</950  .a>
+		<950  .D>Leon G.</950  .D>
+		<950  .B>NEBIS</950  .B>
+		<950  .P>700</950  .P>
+		<950  .E>1-</950  .E>
+		<950  .a>Wisenblit</950  .a>
+		<950  .D>Joseph</950  .D>
+		<9564 .B>NEBIS</9564 .B>
+		<9564 .C>EAD50</9564 .C>
+		<9564 .D>EBI01</9564 .D>
+		<9564 .a>E01</9564 .a>
+		<9564 .u>http://opac.nebis.ch/objects/pdf03/e01_978-0-13-254436-8_01.pdf</9564 .u>
+		<9564 .y>Titelblatt und Inhaltsverzeichnis</9564 .y>
+		<9564 .x>VIEW</9564 .x>
+		<9564 .q>pdf</9564 .q>
+		<9564 .B>IDSBB</9564 .B>
+		<9564 .C>DSV51</9564 .C>
+		<9564 .D>DSV01</9564 .D>
+		<9564 .a>B400</9564 .a>
+		<9564 .u>http://www.ub.unibas.ch/tox/IDSBB/006237703/PDF</9564 .u>
+		<9564 .q>pdf</9564 .q>
+		<9564 .x>VIEW</9564 .x>
+		<9564 .y>Inhaltsverzeichnis</9564 .y>
+		<986  .a>SWISSBIB</986  .a>
+		<986  .b>279124783</986  .b>
+	
+
+		<type>Bibliographic</type>
+		<leader>cam a22     7  4500</leader>
+		<001>316022063</001>
+		<003>CHVBK</003>
+		<005>20140527151224.0</005>
+		<008>140524s1957    gw            00    ger d</008>
+		<035  .a>(RERO)R004689410</035  .a>
+		<035  .a>(SGBN)000187319</035  .a>
+		<035  .a>(NEBIS)000262918</035  .a>
+		<035  .a>(IDSBB)000217483</035  .a>
+		<040  .a>CH-MyRERO</040  .a>
+		<040  .d>CHVBK</040  .d>
+		<0411 .a>fre</0411 .a>
+		<0411 .a>spa</0411 .a>
+		<0411 .h>ara</0411 .h>
+		<0411 .h>spa</0411 .h>
+		<044  .a>sz</044  .a>
+		<044  .c>ch-ju</044  .c>
+		<072 7.a>s1sp</072 7.a>
+		<072 7.2>rero</072 7.2>
+		<1001 .a>Castro</1001 .a>
+		<1001 .D>Américo</1001 .D>
+		<1001 .d>ca. 1880-ca.1930</1001 .d>
+		<24510.a>Spanien Vision und Wirklichkeit</24510.a>
+		<24510.c>Americo Castro ; [aus dem Spanischen übertragen von Suzanne Heintz]</24510.c>
+		<260  .a>Köln [etc.]</260  .a>
+		<260  .b>Kiepenheuer und Witsch</260  .b>
+		<260  .c>1957</260  .c>
+		<300  .a>720 S</300  .a>
+		<300  .b>127 Taf</300  .b>
+		<300  .c>4&apos;</300  .c>
+		<500  .a>Originaltitel: La realidad histórica de España</500  .a>
+		<5050 .a>Vol. 1: La voie des ombres</5050 .a>
+		<5050 .a>Vol. 2: Le choix des ombres</5050 .a>
+		<5050 .a>Vol. 3: Au-delà des ombres</5050 .a>
+		<509 3.a>La realidad histórica de España</509 3.a>
+		<648 7.a>Geschichte</648 7.a>
+		<648 7.2>gnd</648 7.2>
+		<650 7.a>Kultur</650 7.a>
+		<650 7.0>(DE-588)4125698-0</650 7.0>
+		<650 7.2>gnd</650 7.2>
+		<650 7.a>Religion</650 7.a>
+		<650 7.0>(DE-588)4049396-9</650 7.0>
+		<650 7.2>gnd</650 7.2>
+		<650 7.a>Schokolade</650 7.a>
+		<650 7.0>(DE-588)4053168-5</650 7.0>
+		<650 7.2>gnd</650 7.2>
+		<651 7.a>Spanien</651 7.a>
+		<651 7.0>(DE-588)4055964-6</651 7.0>
+		<651 7.2>gnd</651 7.2>
+		<690 7.B>g</690 7.B>
+		<690 7.a>Spanien</690 7.a>
+		<690 7.x>Geschichte</690 7.x>
+		<690 7.2>sgbn S</690 7.2>
+		<691 7.B>u</691 7.B>
+		<691 7.a>GESCHICHTE</691 7.a>
+		<691 7.z>ger</691 7.z>
+		<691 7.u>93</691 7.u>
+		<691 7.2>nebis E1</691 7.2>
+		<691 7.B>u</691 7.B>
+		<691 7.a>SPANIEN (SÜDWESTEUROPA). KÖNIGREICH SPANIEN</691 7.a>
+		<691 7.z>ger</691 7.z>
+		<691 7.u>(460)</691 7.u>
+		<691 7.2>nebis E1</691 7.2>
+		<691 7.B>u</691 7.B>
+		<691 7.a>KULTURGESCHICHTE</691 7.a>
+		<691 7.z>ger</691 7.z>
+		<691 7.u>930.85</691 7.u>
+		<691 7.2>nebis E1</691 7.2>
+		<691 7.B>u</691 7.B>
+		<691 7.a>HISTORY</691 7.a>
+		<691 7.z>eng</691 7.z>
+		<691 7.u>93</691 7.u>
+		<691 7.2>nebis E1</691 7.2>
+		<691 7.B>u</691 7.B>
+		<691 7.a>HISTOIRE</691 7.a>
+		<691 7.z>fre</691 7.z>
+		<691 7.u>93</691 7.u>
+		<691 7.2>nebis E1</691 7.2>
+		<691 7.B>u</691 7.B>
+		<691 7.a>ESPAGNE (EUROPE DU SUD-OUEST). ROYAUME D&apos;ESPAGNE</691 7.a>
+		<691 7.z>fre</691 7.z>
+		<691 7.u>(460)</691 7.u>
+		<691 7.2>nebis E1</691 7.2>
+		<691 7.B>u</691 7.B>
+		<691 7.a>SPAIN (SOUTH WEST EUROPE). KINGDOM OF SPAIN</691 7.a>
+		<691 7.z>eng</691 7.z>
+		<691 7.u>(460)</691 7.u>
+		<691 7.2>nebis E1</691 7.2>
+		<691 7.B>u</691 7.B>
+		<691 7.a>HISTOIRE CULTURELLE</691 7.a>
+		<691 7.z>fre</691 7.z>
+		<691 7.u>930.85</691 7.u>
+		<691 7.2>nebis E1</691 7.2>
+		<691 7.B>u</691 7.B>
+		<691 7.a>CULTURAL HISTORY</691 7.a>
+		<691 7.z>eng</691 7.z>
+		<691 7.u>930.85</691 7.u>
+		<691 7.2>nebis E1</691 7.2>
+		<7001 .a>Heintz</7001 .a>
+		<7001 .D>Suzanne</7001 .D>
+		<7001 .d>1958-</7001 .d>
+		<7001 .c>adjointe scientifique</7001 .c>
+		<7001 .a>Hipler</7001 .a>
+		<7001 .D>Günter</7001 .D>
+		<7000 .a>Voltaire</7000 .a>
+		<7000 .d>1694-1778</7000 .d>
+		<7000 .c>écrivain</7000 .c>
+		<7000 .a>Nicolas</7000 .a>
+		<7731 .t>Quotidien jurassien</7731 .t>
+		<7731 .g>1996/03/23</7731 .g>
+		<7731 .t>Biel/Bienne</7731 .t>
+		<7731 .g>1996/03/25</7731 .g>
+		<912 7.a>go</912 7.a>
+		<912 7.2>SGBN</912 7.2>
+		<912 7.a>gs</912 7.a>
+		<912 7.2>SGBN</912 7.2>
+		<912 7.a>ga</912 7.a>
+		<912 7.a>ng</912 7.a>
+		<950  .B>RERO</950  .B>
+		<950  .P>100</950  .P>
+		<950  .E>1-</950  .E>
+		<950  .a>Castro</950  .a>
+		<950  .D>Américo</950  .D>
+		<950  .B>RERO</950  .B>
+		<950  .P>700</950  .P>
+		<950  .E>1-</950  .E>
+		<950  .a>Heintz</950  .a>
+		<950  .D>Suzanne</950  .D>
+		<950  .B>SGBN</950  .B>
+		<950  .P>100</950  .P>
+		<950  .E>1-</950  .E>
+		<950  .a>Castro</950  .a>
+		<950  .D>Americo</950  .D>
+		<950  .B>NEBIS</950  .B>
+		<950  .P>700</950  .P>
+		<950  .E>1-</950  .E>
+		<950  .a>Castro</950  .a>
+		<950  .D>Américo</950  .D>
+		<950  .B>IDSBB</950  .B>
+		<950  .P>100</950  .P>
+		<950  .E>1-</950  .E>
+		<950  .a>Castro</950  .a>
+		<950  .D>Américo</950  .D>
+		<986  .a>SWISSBIB</986  .a>
+		<986  .b>271128399</986  .b>
+		<898  .a>VM010000</898  .a>
+		<898  .b>BK020000</898  .b>
+		<898  .a>VM030400</898  .a>
+		<898  .b>BK020000</898  .b>
+		<898  .a>VM040000</898  .a>
+		<898  .b>BK020000</898  .b>
+		<898  .a>VM010200</898  .a>
+		<898  .b>BK020000</898  .b>
+		<949  .B>NEBIS</949  .B>
+		<949  .C>EAD50</949  .C>
+		<949  .D>EBI01</949  .D>
+		<949  .E>000262918</949  .E>
+		<949  .F>E01</949  .F>
+		<949  .b>E01</949  .b>
+		<949  .c>01</949  .c>
+		<949  .j>946332</949  .j>
+		<949  .p>00100002698171</949  .p>
+		<949  .q>000262918</949  .q>
+		<949  .r>000010</949  .r>
+		<949  .0>ETH-BIB (Zürich)</949  .0>
+		<949  .1>Magazin</949  .1>
+		<949  .2>4</949  .2>
+		<949  .3>BOOK</949  .3>
+		<949  .4>01</949  .4>
+		<949  .5>A 28 Tg/140 Tg</949  .5>
+		<949  .B>RERO</949  .B>
+		<949  .E>R004689410</949  .E>
+		<949  .F>RE01001</949  .F>
+		<949  .b>RE01001</949  .b>
+		<949  .c>RE010010001</949  .c>
+		<949  .j>X 488</949  .j>
+		<949  .p>001150424</949  .p>
+		<949  .B>IDSBB</949  .B>
+		<949  .C>DSV51</949  .C>
+		<949  .D>DSV01</949  .D>
+		<949  .E>000217483</949  .E>
+		<949  .F>A100</949  .F>
+		<949  .b>A100</949  .b>
+		<949  .c>MAG</949  .c>
+		<949  .j>ef 124</949  .j>
+		<949  .p>0UBU0640840</949  .p>
+		<949  .q>000217483</949  .q>
+		<949  .r>000010</949  .r>
+		<949  .0>Basel UB</949  .0>
+		<949  .1>Magazin</949  .1>
+		<949  .3>BOOK</949  .3>
+		<949  .4>01</949  .4>
+		<949  .5>Heimausleihe</949  .5>
+		<949  .B>IDSBB</949  .B>
+		<949  .C>DSV51</949  .C>
+		<949  .D>DSV01</949  .D>
+		<949  .E>000217483</949  .E>
+		<949  .F>A202</949  .F>
+		<949  .b>A202</949  .b>
+		<949  .c>202FM</949  .c>
+		<949  .j>HS AE 695</949  .j>
+		<949  .p>DSVN280527</949  .p>
+		<949  .q>000217483</949  .q>
+		<949  .r>000020</949  .r>
+		<949  .x>REKAT0203CHW2 / Akz: ba/ihs-/u</949  .x>
+		<949  .0>Basel Departement Geschichte</949  .0>
+		<949  .1>Freihandmagazin</949  .1>
+		<949  .3>BOOK</949  .3>
+		<949  .4>21</949  .4>
+		<949  .5>Benutzung an Ort</949  .5>
+		<949  .B>IDSBB</949  .B>
+		<949  .C>DSV51</949  .C>
+		<949  .D>DSV01</949  .D>
+		<949  .E>000217483</949  .E>
+		<949  .F>A241</949  .F>
+		<949  .b>A241</949  .b>
+		<949  .c>FH</949  .c>
+		<949  .j>IBR SpA 205</949  .j>
+		<949  .p>DSVN637374</949  .p>
+		<949  .q>000217483</949  .q>
+		<949  .r>000030</949  .r>
+		<949  .x>REKATA1100303</949  .x>
+		<949  .0>Basel Sem. f. Iberoromanistik</949  .0>
+		<949  .1>Freihandbereich</949  .1>
+		<949  .3>BOOK</949  .3>
+		<949  .4>11</949  .4>
+		<949  .5>Heimausleihe</949  .5>
+		<949  .B>IDSBB</949  .B>
+		<949  .C>DSV51</949  .C>
+		<949  .D>DSV01</949  .D>
+		<949  .E>000217483</949  .E>
+		<949  .F>B400</949  .F>
+		<949  .b>B400</949  .b>
+		<949  .c>400F4</949  .c>
+		<949  .j>ZB RAB 9992</949  .j>
+		<949  .p>BM1843072</949  .p>
+		<949  .q>000217483</949  .q>
+		<949  .r>000040</949  .r>
+		<949  .0>Bern UB ZB</949  .0>
+		<949  .1>vonRoll Speicher F4</949  .1>
+		<949  .2>i</949  .2>
+		<949  .3>BOOK</949  .3>
+		<949  .4>01</949  .4>
+		<949  .5>Heimausleihe</949  .5>
+		<9564 .B>IDSBB</9564 .B>
+		<9564 .C>DSV51</9564 .C>
+		<9564 .D>DSV01</9564 .D>
+		<9564 .a>B400</9564 .a>
+		<9564 .u>http://www.ub.unibas.ch/tox/IDSBB/000217483/PDF</9564 .u>
+		<9564 .q>pdf</9564 .q>
+		<9564 .x>VIEW</9564 .x>
+		<9564 .y>Inhaltsverzeichnis</9564 .y>
+		<949  .B>SGBN</949  .B>
+		<949  .C>SGB50</949  .C>
+		<949  .D>SGB01</949  .D>
+		<949  .E>000187319</949  .E>
+		<949  .F>SGKBV</949  .F>
+		<949  .b>SGKBV</949  .b>
+		<949  .c>KM</949  .c>
+		<949  .j>VGA Q 13</949  .j>
+		<949  .p>VGA Q 13</949  .p>
+		<949  .q>000187319</949  .q>
+		<949  .r>000010</949  .r>
+		<949  .0>KB St.Gallen Vadiana</949  .0>
+		<949  .1>Magazin</949  .1>
+		<949  .2>i</949  .2>
+		<949  .3>BOOK</949  .3>
+		<949  .4>01</949  .4>
+		<949  .5>ausleihbar</949  .5>
+	
+
+		<type>Bibliographic</type>
+		<leader>cam a22     4  4500</leader>
+		<001>31602208X</001>
+		<003>CHVBK</003>
+		<005>20140616234429.0</005>
+		<008>140524s2014    gw            00    ger d</008>
+		<0167 .a>747185441</0167 .a>
+		<0167 .2>DE-101</0167 .2>
+		<020  .a>978-3-8252-3988-6</020  .a>
+		<020  .a>3-8252-3988-8</020  .a>
+		<035  .a>(ABN)000741970</035  .a>
+		<035  .a>(IDSBB)006189645</035  .a>
+		<035  .a>(NEBIS)010131061</035  .a>
+		<035  .a>(OCoLC)852631783</035  .a>
+		<040  .a>DEBSZ</040  .a>
+		<040  .d>CH-AaAKB</040  .d>
+		<044  .a>sz</044  .a>
+		<044  .c>ch-bl</044  .c>
+		<084  .a>022.35</084  .a>
+		<084  .2>dewey</084  .2>
+		<24500.a>Spanische Literaturgeschichte</24500.a>
+		<24500.b>eine kommentierte Anthologie</24500.b>
+		<24500.c>hrsg. von Carmen Rivero Iglesias</24500.c>
+		<24613.i>Schmutztitel:</24613.i>
+		<24613.a>Spain literature history</24613.a>
+		<24613.n>7th tome</24613.n>
+		<24613.p>History of the empire</24613.p>
+		<24613.a>Historia de la literatura española</24613.a>
+		<260  .a>Paderborn</260  .a>
+		<260  .b>Fink</260  .b>
+		<260  .c>2014</260  .c>
+		<300  .a>380 S</300  .a>
+		<4900 .a>UTB</4900 .a>
+		<4900 .v>3988</4900 .v>
+		<4900 .a>Collections de l&apos;INSEE</4900 .a>
+		<4900 .v>95</4900 .v>
+		<4900 .a>Série C, Comptes et planification</4900 .a>
+		<4900 .v>23</4900 .v>
+		<50500.g>Tome 1</50500.g>
+		<50500.t>A-D</50500.t>
+		<50500.r>Par Charles Laboulaye et MM. Debette, Barral</50500.r>
+		<50500.g>Tome 2</50500.g>
+		<50500.t>E-M</50500.t>
+		<50500.r>Par Charles Laboulaye et MM. Debette, Barral</50500.r>
+		<50500.g>Tome 3</50500.g>
+		<50500.t>N-Z</50500.t>
+		<50500.r>Par Charles Laboulaye et MM. Debette, Barral</50500.r>
+		<50500.g>Tome 4</50500.g>
+		<50500.t>Complément, avec le concours de savants, d&apos;ingénieurs et de fabricants</50500.t>
+		<648 7.a>Geschichte</648 7.a>
+		<648 7.2>gnd</648 7.2>
+		<650 7.a>Spanisch</650 7.a>
+		<650 7.0>(DE-588)4077640-2</650 7.0>
+		<650 7.2>gnd</650 7.2>
+		<650 7.a>Literatur</650 7.a>
+		<650 7.0>(DE-588)4035964-5</650 7.0>
+		<650 7.2>gnd</650 7.2>
+		<655 7.a>Lehrbuch</655 7.a>
+		<655 7.2>gnd</655 7.2>
+		<691 7.B>u</691 7.B>
+		<691 7.a>Produktionsfaktoren und Verteilungsquoten</691 7.a>
+		<691 7.z>eng</691 7.z>
+		<691 7.u>QC 200</691 7.u>
+		<691 7.2>libib XF</691 7.2>
+		<7001 .a>Rivero Iglesias</7001 .a>
+		<7001 .D>Carmen</7001 .D>
+		<856  .u>http://d-nb.info/1034840835/04</856  .u>
+		<856  .z>Inhaltsverzeichnis</856  .z>
+		<856  .z>Inhaltsangabe</856  .z>
+		<856  .u>http://deposit.d-nb.de/cgi-bin/dokserv?id=4338251&amp;prov=M&amp;dok%5Fvar=1&amp;dok%5Fext=htm</856  .u>
+		<909 7.a>NELAKB1404</909 7.a>
+		<909 7.2>abn YA</909 7.2>
+		<909 7.a>UROSE-201405</909 7.a>
+		<909 7.2>nebis EN</909 7.2>
+		<912 7.a>860</912 7.a>
+		<912 7.a>es</912 7.a>
+		<950  .B>ABN</950  .B>
+		<950  .P>490</950  .P>
+		<950  .E>--</950  .E>
+		<950  .a>UTB. Romanistik, Literaturwissenschaft</950  .a>
+		<950  .B>ABN</950  .B>
+		<950  .P>490</950  .P>
+		<950  .E>--</950  .E>
+		<950  .a>UTB</950  .a>
+		<950  .v>3988</950  .v>
+		<950  .B>ABN</950  .B>
+		<950  .P>700</950  .P>
+		<950  .E>1-</950  .E>
+		<950  .a>Rivero Iglesias</950  .a>
+		<950  .D>Carmen</950  .D>
+		<950  .B>ABN</950  .B>
+		<950  .P>856</950  .P>
+		<950  .E>--</950  .E>
+		<950  .u>http://d-nb.info/1034840835/04</950  .u>
+		<950  .z>Inhaltsverzeichnis</950  .z>
+		<950  .B>ABN</950  .B>
+		<950  .P>856</950  .P>
+		<950  .E>--</950  .E>
+		<950  .z>Inhaltsangabe</950  .z>
+		<950  .u>http://deposit.d-nb.de/cgi-bin/dokserv?id=4338251&amp;prov=M&amp;dok%5Fvar=1&amp;dok%5Fext=htm</950  .u>
+		<950  .B>IDSBB</950  .B>
+		<950  .P>490</950  .P>
+		<950  .E>--</950  .E>
+		<950  .a>UTB. Romanistik, Literaturwissenschaft</950  .a>
+		<950  .B>IDSBB</950  .B>
+		<950  .P>490</950  .P>
+		<950  .E>--</950  .E>
+		<950  .a>UTB</950  .a>
+		<950  .v>3988</950  .v>
+		<950  .i>3988</950  .i>
+		<950  .B>IDSBB</950  .B>
+		<950  .P>700</950  .P>
+		<950  .E>1-</950  .E>
+		<950  .a>Rivero Iglesias</950  .a>
+		<950  .D>Carmen</950  .D>
+		<950  .B>IDSBB</950  .B>
+		<950  .P>856</950  .P>
+		<950  .E>--</950  .E>
+		<950  .z>Inhaltsangabe</950  .z>
+		<950  .u>http://deposit.d-nb.de/cgi-bin/dokserv?id=4338251&amp;prov=M&amp;dok%5Fvar=1&amp;dok%5Fext=htm</950  .u>
+		<950  .B>NEBIS</950  .B>
+		<950  .P>490</950  .P>
+		<950  .E>--</950  .E>
+		<950  .a>UTB. Romanistik, Literaturwissenschaft</950  .a>
+		<950  .B>NEBIS</950  .B>
+		<950  .P>490</950  .P>
+		<950  .E>--</950  .E>
+		<950  .a>UTB</950  .a>
+		<950  .v>3988</950  .v>
+		<950  .B>NEBIS</950  .B>
+		<950  .P>700</950  .P>
+		<950  .E>1-</950  .E>
+		<950  .a>Rivero Iglesias</950  .a>
+		<950  .D>Carmen</950  .D>
+		<986  .a>SWISSBIB</986  .a>
+		<986  .b>31602208X</986  .b>
+		<898  .a>BK020000</898  .a>
+		<898  .b>BK020000</898  .b>
+		<949  .B>NEBIS</949  .B>
+		<949  .C>UZH50</949  .C>
+		<949  .D>EBI01</949  .D>
+		<949  .E>010131061</949  .E>
+		<949  .F>UROSE</949  .F>
+		<949  .b>UROSE</949  .b>
+		<949  .j>RoSe Rq 108</949  .j>
+		<949  .p>UM1459061</949  .p>
+		<949  .q>010131061</949  .q>
+		<949  .r>000010</949  .r>
+		<949  .0>UZH-ROSE (Zürich)</949  .0>
+		<949  .2>0</949  .2>
+		<949  .3>BOOK</949  .3>
+		<949  .4>11</949  .4>
+		<949  .5>Ausleihe 4 Wochen</949  .5>
+		<949  .B>IDSBB</949  .B>
+		<949  .C>DSV51</949  .C>
+		<949  .D>DSV01</949  .D>
+		<949  .E>006189645</949  .E>
+		<949  .F>B400</949  .F>
+		<949  .b>B400</949  .b>
+		<949  .c>400J5</949  .c>
+		<949  .j>ZB RFA 37984</949  .j>
+		<949  .p>BM2303309</949  .p>
+		<949  .q>006189645</949  .q>
+		<949  .r>000020</949  .r>
+		<949  .x>NELB4001405</949  .x>
+		<949  .0>Bern UB ZB</949  .0>
+		<949  .1>vonRoll Speicher J5</949  .1>
+		<949  .2>i</949  .2>
+		<949  .3>BOOK</949  .3>
+		<949  .4>01</949  .4>
+		<949  .5>Heimausleihe</949  .5>
+		<9564 .B>IDSBB</9564 .B>
+		<9564 .C>DSV51</9564 .C>
+		<9564 .D>DSV01</9564 .D>
+		<9564 .a>B400</9564 .a>
+		<9564 .u>http://d-nb.info/1034840835/04</9564 .u>
+		<9564 .q>pdf</9564 .q>
+		<9564 .x>VIEW</9564 .x>
+		<9564 .y>Inhaltsverzeichnis</9564 .y>
+		<949  .B>IDSBB</949  .B>
+		<949  .C>DSV51</949  .C>
+		<949  .D>DSV01</949  .D>
+		<949  .E>006189645</949  .E>
+		<949  .F>B410</949  .F>
+		<949  .b>B410</949  .b>
+		<949  .c>FH</949  .c>
+		<949  .j>BTO</949  .j>
+		<949  .p>BM2631551</949  .p>
+		<949  .q>006189645</949  .q>
+		<949  .r>000010</949  .r>
+		<949  .x>NELB4101404</949  .x>
+		<949  .0>Bern UB BTO</949  .0>
+		<949  .1>Freihandbereich</949  .1>
+		<949  .3>BOOK</949  .3>
+		<949  .4>11</949  .4>
+		<949  .5>Heimausleihe</949  .5>
+		<949  .6>IP</949  .6>
+		<949  .B>ABN</949  .B>
+		<949  .C>ABN51</949  .C>
+		<949  .D>ABN01</949  .D>
+		<949  .E>000741970</949  .E>
+		<949  .F>A125</949  .F>
+		<949  .b>AKB</949  .b>
+		<949  .c>AKBFH</949  .c>
+		<949  .j>AKB 100929</949  .j>
+		<949  .p>AAK002436069</949  .p>
+		<949  .q>000741970</949  .q>
+		<949  .r>000010</949  .r>
+		<949  .0>Aargauer Kantonsbibliothek</949  .0>
+		<949  .1>Freihand</949  .1>
+		<949  .2>6</949  .2>
+		<949  .3>BOOK</949  .3>
+		<949  .4>01</949  .4>
+		<949  .5>4 Wochen</949  .5>
+	
+
+		<type>Bibliographic</type>
+		<leader>nam a22     4  4500</leader>
+		<001>316022098</001>
+		<003>CHVBK</003>
+		<005>20140524070547.0</005>
+		<008>140524s2013    sz            00    ger</008>
+		<020  .a>978-3-906178-00-4</020  .a>
+		<035  .a>(NEBIS)009901958</035  .a>
+		<035  .a>(IDSLU)001144624</035  .a>
+		<040  .a>SzZuIDS NEBIS ZHDK-MIZ</040  .a>
+		<24500.a>Spatial Design</24500.a>
+		<24500.b>Gespräche über Architekturen, Ausstellungen, Bühnenbilder und Urbane Interventionen : ein Reader des MAS Spatial Design</24500.b>
+		<24500.c>Stephan Trüby (Hrsg.)</24500.c>
+		<260  .a>Zürich</260  .a>
+		<260  .b>Zürcher Hochschule der Künste, Institut für Designforschung</260  .b>
+		<260  .c>2013</260  .c>
+		<300  .a>196 S</300  .a>
+		<300  .b>farbige Ill</300  .b>
+		<300  .c>21 cm</300  .c>
+		<650 7.a>Öffentlicher Raum</650 7.a>
+		<650 7.0>(DE-588)4172385-5</650 7.0>
+		<650 7.2>gnd</650 7.2>
+		<650 7.a>Bühne</650 7.a>
+		<650 7.0>(DE-588)4146857-0</650 7.0>
+		<650 7.2>gnd</650 7.2>
+		<650 7.a>Museum</650 7.a>
+		<650 7.0>(DE-588)4040795-0</650 7.0>
+		<650 7.2>gnd</650 7.2>
+		<650 7.a>Szenographie</650 7.a>
+		<650 7.0>(DE-588)4433627-5</650 7.0>
+		<650 7.2>gnd</650 7.2>
+		<655 7.a>Gespräch</655 7.a>
+		<655 7.2>gnd</655 7.2>
+		<7001 .a>Trüby</7001 .a>
+		<7001 .D>Stephan</7001 .D>
+		<7102 .a>Zürcher Hochschule der Künste</7102 .a>
+		<7102 .b>Institut Design2context</7102 .b>
+		<7101 .a>Schweiz.</7101 .a>
+		<7101 .b>Eidgen. Departement des Innern.</7101 .b>
+		<7101 .b>Bundesamt für Kultur</7101 .b>
+		<7101 .n>(3 :</7101 .n>
+		<7101 .d>2015 :</7101 .d>
+		<7101 .c>Berne)</7101 .c>
+		<7101 .a>Energietechnische Gesellschaft (Schweiz)</7101 .a>
+		<7101 .b>Tagungszyklus</7101 .b>
+		<7101 .d>1997</7101 .d>
+		<7101 .c>Baden (Aargau)</7101 .c>
+		<7101 .a>Association genevoise des bibliothécaires et documentalistes</7101 .a>
+		<7101 .b>Comité</7101 .b>
+		<909 7.a>ZH</909 7.a>
+		<909 7.2>idszbz Z1</909 7.2>
+		<909 7.a>zbzmon201307l</909 7.a>
+		<909 7.c>knec</909 7.c>
+		<909 7.d>zbzswk201309g</909 7.d>
+		<909 7.e>schl</909 7.e>
+		<909 7.2>idszbz Z2</909 7.2>
+		<909 7.a>NLLUHTA201405</909 7.a>
+		<909 7.2>idslu L3</909 7.2>
+		<912 7.a>ZB720</912 7.a>
+		<912 7.2>Z01</912 7.2>
+		<912 7.a>E6503</912 7.a>
+		<912 7.2>E65-20130708</912 7.2>
+		<912 7.a>E6506</912 7.a>
+		<912 7.2>E65-20130708</912 7.2>
+		<950  .B>NEBIS</950  .B>
+		<950  .P>700</950  .P>
+		<950  .E>1-</950  .E>
+		<950  .a>Trüby</950  .a>
+		<950  .D>Stephan</950  .D>
+		<950  .B>NEBIS</950  .B>
+		<950  .P>710</950  .P>
+		<950  .E>2-</950  .E>
+		<950  .a>Zürcher Hochschule der Künste</950  .a>
+		<950  .b>Institut Design2context</950  .b>
+		<950  .B>IDSLU</950  .B>
+		<950  .P>700</950  .P>
+		<950  .E>1-</950  .E>
+		<950  .a>Trüby</950  .a>
+		<950  .D>Stephan</950  .D>
+		<950  .B>IDSLU</950  .B>
+		<950  .P>710</950  .P>
+		<950  .E>2-</950  .E>
+		<950  .a>Zürcher Hochschule der Künste</950  .a>
+		<950  .b>Institut Design2context</950  .b>
+		<986  .a>SWISSBIB</986  .a>
+		<986  .b>303465476</986  .b>
+		<898  .a>CR030000</898  .a>
+		<898  .b>BK020000</898  .b>
+		<949  .B>NEBIS</949  .B>
+		<949  .C>EAD50</949  .C>
+		<949  .D>EBI01</949  .D>
+		<949  .E>009901958</949  .E>
+		<949  .F>E65</949  .F>
+		<
